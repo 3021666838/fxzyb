@@ -1,6 +1,6 @@
 马年大吉,#group#
 
-视觉,#genre#
+☘️视觉,#genre#
 龙腾虎跃视觉,https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
 4K视频[刷新就是新内容],http://xjj1.716888.xyz/fenlei/4k/4k.php
 抖音女神,https://api.e1e1.top/crosswise/cw.php
@@ -9,7 +9,7 @@
 环球直播,https://live.iill.top/douyu/9036111
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
-体育,#genre#
+🏀体育,#genre#
 新视觉,http://120.238.5.44:1698/hls/81/index.m3u8
 至臻视界,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686
 至臻视界,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1&
@@ -19,7 +19,7 @@
 睛彩篮球,http://111.56.121.176:80/050000001888/5000000188800000107/index.m3u8
 睛彩青少,http://111.56.121.176:80/050000001888/5000000188800000109/index.m3u8
 
-纪实,#genre#
+☘️纪实,#genre#
 BesTV4K记录,http://223.167.125.208:4022/rtp/233.18.204.170:5140
 内蒙精彩纪实,http://111.56.121.176:80/050000001888/5000000188800000187/index.m3u8
 北京纪实科教,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225744/1.m3u8?fmt=ts2hls
@@ -27,7 +27,7 @@ BesTV4K记录,http://223.167.125.208:4022/rtp/233.18.204.170:5140
 新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 
 第一直播,#group#
-央视,#genre#
+📺央视,#genre#
 CCTV4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls
 CCTV4K,http://111.56.121.176:80/050000001888/5000000188800000217/index.m3u8
 CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
@@ -192,7 +192,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 电视指南,http://111.56.121.176:80/050000001888/5000000188800000164/index.m3u8
 
 
-卫视,#genre#
+📡卫视,#genre#
 北京卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226322/1.m3u8?fmt=ts2hls
 北京卫视4K,http://106.53.99.30/tv/bj.php?id=bjws4k
 东方卫视4K(看东方),https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
@@ -453,7 +453,7 @@ cdtv6,http://nas.201606.xyz:4022/rtp/239.10.0.16:5140
 易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
 
 
-儿童,#genre#
+🪁儿童,#genre#
 内蒙古少儿频道,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/1.m3u8?fmt=ts2hls
 内蒙儿童秀场,http://111.56.121.176:80/050000001888/5000000188800000185/index.m3u8
 金鹰卡通,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225686/1.m3u8?fmt=ts2hls
@@ -483,7 +483,7 @@ BesTV4K动画,http://223.167.125.208:4022/rtp/233.18.204.171:5140
 第二直播,#group#
 
 
-电视剧,#genre#
+🏛电视剧,#genre#
 Y+剧场,http://hms3659nc3747353871.live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/1.m3u8?tenantId=8601&accountinfo=~~V2.0~SSxnh2gPZaV_9wZMz86ofwc38bf04ecfc078f584095a9c6e91b9e1~3twbaBwUaqzfkJ5qW9C0gp1C11OJXhanim-P8XrfoHFX-jV3R0FL2wbo-VR8pOhzd5938d01ed8f640cebb709a281e7b1d3~ExtInfo9W1qynAo8QtSBzK-JlHBbQ3bb1f3410d135b117fdf58086980a86d:20240603131532:UTC,c864060416ccf5986b3e5940417477879245774,117.148.130.144,20240603131532,4444444684,c864060416ccf5986b3e5940417477879245774,-1,0,1,,,2,1000000201,,,2,23,0,241,9ec0a2dcdcfd4259318d50a38cde552c,,,1,1,140151867,END&fbl=$超清
 家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
 深圳电视剧,http://nn.7x9d.cn/深圳最新.php?id=szdsj
@@ -537,7 +537,7 @@ ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
 
 
 
-音乐,#genre#
+🎵音乐,#genre#
 喵喵音乐,http://222.186.39.21:35466/douyu/9568091
 动漫音乐专场,http://222.186.39.21:35466/douyu/9409703
 动感音乐,http://yhms.aylzline.top:8899/rtp/225.1.2.158:10966
@@ -608,8 +608,7 @@ ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
 
 港澳台直播,#group#
 
-港台,#genre#
-
+🌊港台,#genre#
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
 凤凰卫视中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰卫视中文,http://r.jdshipin.com/cCCzW
@@ -753,7 +752,7 @@ Now财经,http://rihou.cc:555/tv/[Uk]Now财经
 香港频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 
-台湾,#genre#
+🌊台湾,#genre#
 今日新闻,http://220.135.64.124:5050/nnews-zh/index.m3u8?proxy=true
 鏡电视新闻,https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8
 鏡电视新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
@@ -882,7 +881,7 @@ rollor-2,https://stream1.freetv.fun/64328a0c0ac0762a7ae75aa9497de281c00c4a62d422
 华艺中文,https://live.catvod.com/live.php?id=weishichinese_twn
 
 
-中文,#genre#
+🌊中文,#genre#
 CNA亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CH5,http://cdn6.163189.xyz/163189/ch5
 CH5,https://cdn6.163189.xyz/163189/ch5
@@ -895,7 +894,7 @@ CHU,https://cdn6.163189.xyz/163189/chu
 Peace TV Chinese,https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
 
 
-电影,#genre#
+🎬电影,#genre#
 NewTV传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
 NewTV古装剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 NewTV军旅剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
