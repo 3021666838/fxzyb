@@ -887,7 +887,7 @@ Now星影,http://rihou.cc:555/tv/[Uk]Now星影
 Now爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
 Now爆谷,http://rihou.cc:555/tv/[Uk]Now爆谷
 Now财经,http://rihou.cc:555/tv/[Uk]Now财经
-香港频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+香港C+_-频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 
 🌊台湾,#genre#
@@ -920,6 +920,7 @@ TVBS精采,http://rihou.cc:555/tv/[Hv]tvbS闽南
 中视,http://rihou.cc:555/tv/[mn]中视闽南
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
+中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视经典,http://rihou.cc:555/tv/[mn]中视经典
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
