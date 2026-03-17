@@ -1,7 +1,6 @@
 马年大吉,#group#
 
 ☘️视觉,#genre#
-4K视觉效果,https://v11-weba.douyinvod.com:443/e615ea3c51dd94b8cb570ed80c119ff0/69b4174b/video/tos/cn/tos-cn-vd-0026/oE7xBf1oAi0NgLmYqA0giBccI2eTAAQ6CA4AhR/media-video-hvc1/?a=6383&ch=0&cr=8&dr=0&er=1&lr=default&cd=0%7C0%7C0%7C3&cv=1&br=496&bt=496&cs=4&ds=6&eid=45312&mime_type=video_mp4&qs=11&rc=Ojk4N2U4aWQ2aWU7ODg6OEBpM3I4Om85cm46OTMzNGkzM0AxNWNhLjExNWMxYi0vYzUwYSNxLTFpMmRjbzJhLS1kLWFzcw%3D%3D&btag=c0000e00038000&cquery=101r_100o&dy_q=1773323118&l=2026031221451811BDBC83A32E5DF32401
 4K视频[刷新就是新内容],http://xjj1.716888.xyz/fenlei/4k/4k.php
 抖音女神,https://api.e1e1.top/crosswise/cw.php
 3D-3视觉效果,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
@@ -208,7 +207,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方卫视4K(看东方),https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K(看东方),http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226360/1.m3u8?fmt=ts2hls
-东方卫视4k,http://106.53.99.30/tv/api.php?id=dfws4k
+东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
 江苏卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226356/1.m3u8?fmt=ts2hls
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 浙江卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226338/1.m3u8?fmt=ts2hls
@@ -231,7 +230,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 广东卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226357/1.m3u8?fmt=ts2hls
-广东卫视4k,http://124.116.170.138:8081/rtp/239.111.205.103:5140
+广东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.103:5140
 广东综艺4K,http://www.8888866.xyz:10000/udp/239.77.0.245:5146
 深圳卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226335/1.m3u8?fmt=ts2hls
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
