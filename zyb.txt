@@ -982,8 +982,7 @@ NOW财经,http://rihou.cc:555/tv/[Uk]Now财经
 
 
 🌊台湾,#genre#
-亚洲旅游台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20273
-鏡电视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20180
+亚洲旅游,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20273
 鏡电视新闻,https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8
 鏡电视新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
 华视,http://211.72.174.95:8114/0.ts
@@ -995,8 +994,6 @@ NOW财经,http://rihou.cc:555/tv/[Uk]Now财经
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
 华视教育,http://74.91.26.218:82/live/ctsjy.m3u8
 华视教育,http://rihou.cc:555/tv/[mn]华视教育
-年代新闻,http://rihou.cc:555/tv/[Hk]年代新闻
-年代新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20178
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 非凡新闻,http://rihou.cc:555/tv/[Hk]非凡新闻
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
@@ -1036,9 +1033,9 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 寰宇新聞,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20176
 寰宇新聞,http://nmk.ioapk.com:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
 寰宇新闻台湾台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20324
+东森新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20174
 东森新闻,http://rihou.cc:555/tv/[Us]东森新闻
 东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
-东森新闻LIVE,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20174
 东森综合,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20206
 东森综合,http://ip1.xiaomidadi.cn:8088/live/KMn24bon5j3PxYY2/hls.m3u8
 东森综合,http://iptv.4666888.xyz/iptv2A.php?id=58
