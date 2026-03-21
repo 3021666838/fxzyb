@@ -1,6 +1,9 @@
 马年大吉,#group#
 
 ☘️视觉,#genre#
+4KR,http://117.63.157.175:8888/rtp/239.49.8.82:8000
+4KR,http://dx.joygala.cn:8118/rtp/239.49.8.82:8000
+4KR,http://hl.nijingjing.site:8888/rtp/239.49.8.82:8000
 4K视频[刷新就是新内容],http://xjj1.716888.xyz/fenlei/4k/4k.php
 抖音女神,https://api.e1e1.top/crosswise/cw.php
 环球直播,https://live.iill.top/douyu/9036111
@@ -444,11 +447,23 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 -----------------------------------------------------------------------------------
 
 cdtv1,http://nas.201606.xyz:4022/rtp/239.10.0.11:5140
+cdtv1,http://183.220.107.138:4022/rtp/239.10.0.11:5140
+cdtv1,http://183.220.20.17:4321/rtp/239.10.0.11:5140
 cdtv2,http://nas.201606.xyz:4022/rtp/239.10.0.12:5140
+cdtv2,http://183.220.107.138:4022/rtp/239.10.0.12:5140
+cdtv2,http://183.220.20.17:4321/rtp/239.10.0.12:5140
 cdtv3,http://nas.201606.xyz:4022/rtp/239.10.0.13:5140
+cdtv3,http://183.220.107.138:4022/rtp/239.10.0.13:5140
+cdtv3,http://183.220.20.17:4321/rtp/239.10.0.13:5140
 cdtv4,http://nas.201606.xyz:4022/rtp/239.10.0.14:5140
+cdtv4,http://183.220.107.138:4022/rtp/239.10.0.14:5140
+cdtv4,http://183.220.20.17:4321/rtp/239.10.0.14:5140
 cdtv5,http://nas.201606.xyz:4022/rtp/239.10.0.15:5140
+cdtv5,http://183.220.107.138:4022/rtp/239.10.0.15:5140
+cdtv5,http://183.220.20.17:4321/rtp/239.10.0.15:5140
 cdtv6,http://nas.201606.xyz:4022/rtp/239.10.0.16:5140
+cdtv6,http://183.220.107.138:4022/rtp/239.10.0.16:5140
+cdtv6,http://183.220.20.17:4321/rtp/239.10.0.16:5140
 海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
 安徽影视,https://t.freetv.fun/live/an-hui-ying-shi-2.m3u8
 萧山电视台,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo.m3u8
@@ -517,31 +532,46 @@ BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 
 第二直播,#group#
 
-📡辽宁地区,#genre#
+📡其他地区,#genre#
 CHC家庭影院,http://182.207.218.54:999/tsfile/live/1014_1.m3u8?key=txiptv
 CHC家庭影院,http://fuxin.yunjifei.top:999/tsfile/live/1014_1.m3u8?key=txiptv
 CHC动作电影,http://182.207.218.54:999/tsfile/live/1015_1.m3u8?key=txiptv
 CHC动作电影,http://fuxin.yunjifei.top:999/tsfile/live/1015_1.m3u8?key=txiptv
 CHC影迷电影,http://182.207.218.54:999/tsfile/live/1016_1.m3u8?key=txiptv
 CHC影迷电影,http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8?key=txiptv
+BesTV 4K动画,http://woshiysy1.synology.me:4999/rtp/233.18.204.171:5140
+BesTV 4K动画,http://wsc2007123.myds.me:30100/rtp/233.18.204.171:5140
+BesTV 4K动画,http://www.yyf1991.top:9999/rtp/233.18.204.171:5140
+BesTV 4K电影,http://woshiysy1.synology.me:4999/rtp/233.18.204.169:5140
+BesTV 4K电影,http://wsc2007123.myds.me:30100/rtp/233.18.204.169:5140
+BesTV 4K电影,http://www.yyf1991.top:9999/rtp/233.18.204.169:5140
+BesTV 4K记录,http://woshiysy1.synology.me:4999/rtp/233.18.204.170:5140
+BesTV 4K记录,http://wsc2007123.myds.me:30100/rtp/233.18.204.170:5140
+BesTV 4K记录,http://www.yyf1991.top:9999/rtp/233.18.204.170:5140
 辽宁影视,http://182.207.218.54:999/tsfile/live/1001_1.m3u8?key=txiptv
 辽宁影视,http://fuxin.yunjifei.top:999/tsfile/live/1001_1.m3u8?key=txiptv
 辽宁影视,http://119.113.170.139:4000/rtp/232.0.0.97:8534
+辽宁影视,http://124.93.62.165:4000/rtp/232.0.0.97:8534
 辽宁都市,http://182.207.218.54:999/tsfile/live/1000_1.m3u8?key=txiptv
 辽宁都市,http://fuxin.yunjifei.top:999/tsfile/live/1000_1.m3u8?key=txiptv
 辽宁都市,http://119.113.170.139:4000/rtp/232.0.0.88:8890
+辽宁都市,http://124.93.62.165:4000/rtp/232.0.0.88:8890
 辽宁体育,http://182.207.218.54:999/tsfile/live/1003_1.m3u8?key=txiptv
 辽宁体育,http://fuxin.yunjifei.top:999/tsfile/live/1003_1.m3u8?key=txiptv
 辽宁体育,http://119.113.170.139:4000/rtp/232.0.0.3:8540
+辽宁体育,http://124.93.62.165:4000/rtp/232.0.0.3:8540
 辽宁生活,http://182.207.218.54:999/tsfile/live/1004_1.m3u8?key=txiptv
 辽宁生活,http://fuxin.yunjifei.top:999/tsfile/live/1004_1.m3u8?key=txiptv
 辽宁生活,http://119.113.170.139:4000/rtp/232.0.0.96:8538
+辽宁生活,http://124.93.62.165:4000/rtp/232.0.0.96:8538
 辽宁教育青少,http://182.207.218.54:999/tsfile/live/1005_1.m3u8?key=txiptv
 辽宁教育青少,http://fuxin.yunjifei.top:999/tsfile/live/1005_1.m3u8?key=txiptv
 辽宁教育青少,http://119.113.170.139:4000/rtp/232.0.0.99:8536
+辽宁教育青少,http://124.93.62.165:4000/rtp/232.0.0.99:8536
 辽宁北方,http://182.207.218.54:999/tsfile/live/1006_1.m3u8?key=txiptv
 辽宁北方,http://fuxin.yunjifei.top:999/tsfile/live/1006_1.m3u8?key=txiptv
 辽宁北方,http://119.113.170.139:4000/rtp/232.0.0.55:8542
+辽宁北方,http://124.93.62.165:4000/rtp/232.0.0.55:8542
 辽宁移动,http://182.207.218.54:999/tsfile/live/1009_1.m3u8?key=txiptv
 辽宁移动,http://fuxin.yunjifei.top:999/tsfile/live/1009_1.m3u8?key=txiptv
 辽宁公共,http://182.207.218.54:999/tsfile/live/1007_1.m3u8?key=txiptv
@@ -550,32 +580,7 @@ CHC影迷电影,http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8?key=txiptv
 辽宁经济,http://182.207.218.54:999/tsfile/live/1008_1.m3u8?key=txiptv
 辽宁经济,http://fuxin.yunjifei.top:999/tsfile/live/1008_1.m3u8?key=txiptv
 辽宁经济,http://119.113.170.139:4000/rtp/232.0.0.155:9320
-
-📡吉林地区,#genre#
-吉林影视,http://36.49.50.173:8800/rtp/239.37.0.103:5540
-吉林影视,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.103:5540
-吉林东北,http://36.49.50.173:8800/rtp/239.37.0.109:5540
-吉林东北,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.109:5540
-吉林都市,http://36.49.50.173:8800/rtp/239.37.0.102:5540
-吉林都市,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.102:5540
-吉林新闻,http://36.49.50.173:8800/rtp/239.37.0.127:5540
-吉林新闻,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.127:5540
-吉林公共,http://36.49.50.173:8800/rtp/239.37.0.106:5540
-吉林公共,http://36.49.50.173:8800/rtp/239.37.0.128:5540
-吉林公共,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.106:5540
-吉林公共,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.128:5540
-吉林教育,http://36.49.50.173:8800/rtp/239.37.0.126:5540
-吉林教育,http://36.49.50.173:8800/rtp/239.37.0.129:5540
-吉林教育,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.126:5540
-吉林教育,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.129:5540
-吉林生活,http://36.49.50.173:8800/rtp/239.37.0.104:5540
-吉林生活,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.104:5540
-吉林乡村,http://36.49.50.173:8800/rtp/239.37.0.105:5540
-吉林乡村,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.105:5540
-
-📡黑龙江地区,#genre#
-
-📡北京地区,#genre#
+辽宁经济,http://124.93.62.165:4000/rtp/232.0.0.155:9320
 北京文艺,http://www.taoli.website:23234/rtp/239.3.1.242:8000
 北京文艺,http://www.xiongnas.top:8888/rtp/239.3.1.242:8000
 北京文艺,http://zb.hexuntong.net:8188/rtp/239.3.1.242:8000
@@ -590,10 +595,6 @@ CHC影迷电影,http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8?key=txiptv
 北京新闻,http://zb.hexuntong.net:8188/rtp/239.3.1.159:8000
 北京国际,http://www.taoli.website:23234/rtp/239.3.1.235:8000
 北京国际,http://www.xiongnas.top:8888/rtp/239.3.1.235:8000
-北京国际,http://zb.hexuntong.net:8188/rtp/239.3.1.235:8000
-
-📡天津地区,#genre#
-曲艺大观,http://36.106.167.52:1111/rtp/239.5.1.88:5000
 天津都市,http://home.techua.cn:8000/rtp/225.1.1.128:5002
 天津都市,http://home.techua.net:8000/rtp/225.1.1.128:5002
 天津都市,http://mail.hanxucloud.cn:4022/rtp/225.1.1.128:5002
@@ -603,32 +604,19 @@ CHC影迷电影,http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8?key=txiptv
 天津影视,http://home.techua.cn:8000/rtp/225.1.1.149:5002
 天津影视,http://home.techua.net:8000/rtp/225.1.1.149:5002
 天津影视,http://mail.hanxucloud.cn:4022/rtp/225.1.1.149:5002
-
-
-📡其他地区,#genre#
 澳门卫视,http://183.2.73.18:9901/tsfile/live/1004_1.m3u8?key=txiptv
-BesTV 4K动画,http://woshiysy1.synology.me:4999/rtp/233.18.204.171:5140
-BesTV 4K动画,http://wsc2007123.myds.me:30100/rtp/233.18.204.171:5140
-BesTV 4K动画,http://www.yyf1991.top:9999/rtp/233.18.204.171:5140
-BesTV 4K电影,http://woshiysy1.synology.me:4999/rtp/233.18.204.169:5140
-BesTV 4K电影,http://wsc2007123.myds.me:30100/rtp/233.18.204.169:5140
-BesTV 4K电影,http://www.yyf1991.top:9999/rtp/233.18.204.169:5140
-BesTV 4K记录,http://woshiysy1.synology.me:4999/rtp/233.18.204.170:5140
-BesTV 4K记录,http://wsc2007123.myds.me:30100/rtp/233.18.204.170:5140
-BesTV 4K记录,http://www.yyf1991.top:9999/rtp/233.18.204.170:5140
+凤凰卫视,http://zgxsd.f3322.net:9901/tsfile/live/1042_1.m3u8?key=txiptv
 凤凰卫视,http://183.2.73.18:9901/tsfile/live/0108_1.m3u8?key=txiptv
 凤凰中文,http://120.198.86.186:9901/tsfile/live/1037_1.m3u8?key=txiptv
 凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv
 翡翠台,http://183.2.73.18:9901/tsfile/live/1011_1.m3u8?key=txiptv
+翡翠台,http://183.2.73.18:9901/tsfile/live/1011_1.m3u8?key=txiptv
 翡翠台,http://120.198.86.186:9901/tsfile/live/1007_1.m3u8?key=txiptv
 翡翠台,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
+翡翠台,http://zgxsd.f3322.net:9901/tsfile/live/1034_1.m3u8?key=txiptv
+明珠台,http://zgxsd.f3322.net:9901/tsfile/live/1035_1.m3u8?key=txiptv
 明珠台,http://120.198.86.186:9901/tsfile/live/1009_1.m3u8?key=txiptv
 明珠台,http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv
-海口1台,http://36.101.1.123:9999/rtp/239.253.64.6:5140
-海口1台,http://36.101.1.123:9999/rtp/239.253.64.80:5140
-海口2台,http://36.101.1.123:9999/rtp/239.253.64.82:5140
-海口3台,http://36.101.1.123:9999/rtp/239.253.64.83:5140
-三亚1台,http://36.101.1.123:9999/rtp/239.253.64.152:5140
 湖南电影,http://andy-nas.top:8623/rtp/239.76.252.119:9000
 湖南电影,http://andy-nas.top:8623/rtp/239.76.253.106:9000
 湖南电影,http://www.andy-nas.top:8623/rtp/239.76.252.119:9000
@@ -665,12 +653,54 @@ BesTV 4K记录,http://www.yyf1991.top:9999/rtp/233.18.204.170:5140
 江苏影视,http://117.63.157.175:8888/rtp/239.49.8.118:8000
 江苏影视,http://dx.joygala.cn:8118/rtp/239.49.8.118:8000
 江苏影视,http://hl.nijingjing.site:8888/rtp/239.49.8.118:8000
-4KR,http://117.63.157.175:8888/rtp/239.49.8.82:8000
-4KR,http://dx.joygala.cn:8118/rtp/239.49.8.82:8000
-4KR,http://hl.nijingjing.site:8888/rtp/239.49.8.82:8000
-
-
-
+山东影视,http://113.120.108.132:4000/rtp/239.21.1.176:5002
+山东影视,http://122.5.98.97:17923/rtp/239.21.1.176:5002
+山东影视,http://www.niuin.com:4022/rtp/239.21.1.176:5002
+山东影视,http://119.180.53.11:8888/rtp/239.253.248.19:8000
+山东影视,http://124.131.45.137:7000/rtp/239.253.248.19:8000
+山东影视,http://xiaole51.3322.org:7000/rtp/239.253.248.19:8000
+山东综艺,http://113.120.108.132:4000/rtp/239.21.1.177:5002
+山东综艺,http://122.5.98.97:17923/rtp/239.21.1.177:5002
+山东综艺,http://www.niuin.com:4022/rtp/239.21.1.177:5002
+山东综艺,http://119.180.53.11:8888/rtp/239.253.248.21:8000
+山东综艺,http://124.131.45.137:7000/rtp/239.253.248.21:8000
+山东综艺,http://xiaole51.3322.org:7000/rtp/239.253.248.21:8000
+山东公共,http://113.120.108.132:4000/rtp/239.21.1.140:5002
+山东公共,http://122.5.98.97:17923/rtp/239.21.1.140:5002
+山东公共,http://www.niuin.com:4022/rtp/239.21.1.140:5002
+山东生活,http://113.120.108.132:4000/rtp/239.21.1.175:5002
+山东生活,http://122.5.98.97:17923/rtp/239.21.1.175:5002
+山东生活,http://www.niuin.com:4022/rtp/239.21.1.175:5002
+五华台,http://zgxsd.f3322.net:9901/tsfile/live/1022_1.m3u8?key=txiptv
+四川影视,http://183.220.107.138:4022/rtp/239.11.0.77:5140
+四川影视,http://183.220.20.17:4321/rtp/239.11.0.77:5140
+天府经典,http://183.220.107.138:4022/rtp/239.10.0.130:5140
+天府经典,http://183.220.20.17:4321/rtp/239.10.0.130:5140
+天府辣妈,http://183.220.107.138:4022/rtp/239.10.0.137:5140
+天府辣妈,http://183.220.20.17:4321/rtp/239.10.0.137:5140
+天府风尚,http://183.220.107.138:4022/rtp/239.10.0.138:5140
+天府风尚,http://183.220.20.17:4321/rtp/239.10.0.138:5140
+天府魔力,http://183.220.107.138:4022/rtp/239.10.0.140:5140
+天府魔力,http://183.220.20.17:4321/rtp/239.10.0.140:5140
+峨眉电影,http://183.220.107.138:4022/rtp/239.11.0.11:5140
+峨眉电影,http://183.220.20.17:4321/rtp/239.11.0.11:5140
+稻城电视台,http://183.220.107.138:4022/rtp/239.10.0.29:5140
+稻城电视台,http://183.220.20.17:4321/rtp/239.10.0.29:5140
+重庆影视,http://27.9.39.25:8010/rtp/225.0.4.192:7980
+重庆影视,http://27.9.90.97:8010/rtp/225.0.4.192:7980
+重庆影视,http://27.9.91.107:8010/rtp/225.0.4.192:7980
+重庆新闻,http://27.9.39.25:8010/rtp/225.0.4.188:7980
+重庆新闻,http://27.9.90.97:8010/rtp/225.0.4.188:7980
+重庆新闻,http://27.9.91.107:8010/rtp/225.0.4.188:7980
+重庆娱乐,http://27.9.39.25:8010/rtp/225.0.4.194:7980
+重庆娱乐,http://27.9.90.97:8010/rtp/225.0.4.194:7980
+重庆娱乐,http://27.9.91.107:8010/rtp/225.0.4.194:7980
+重庆科教,http://27.9.39.25:8010/rtp/225.0.4.193:7980
+重庆科教,http://27.9.90.97:8010/rtp/225.0.4.193:7980
+重庆科教,http://27.9.91.107:8010/rtp/225.0.4.193:7980
+重庆新农村,http://27.9.39.25:8010/rtp/225.0.4.189:7980
+重庆新农村,http://27.9.90.97:8010/rtp/225.0.4.189:7980
+重庆新农村,http://27.9.91.107:8010/rtp/225.0.4.189:7980
 
 
 
