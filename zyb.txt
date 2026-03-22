@@ -953,6 +953,7 @@ NOW财经,http://rihou.cc:555/tv/[Uk]Now财经
 鏡电视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20180
 鏡电视新闻,https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8
 鏡电视新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
+华视,http://119.91.7.169:2026/TW.php?id=华视
 华视,http://211.72.174.95:8114/0.ts
 华视,http://74.91.26.218:82/live/cts.m3u8
 华视,rtmp://f13h.mine.nu/sat/tv111
@@ -1220,7 +1221,6 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 龙华洋片,http://cdn8.163189.xyz/163189/lhyp
 邵氏喜剧,http://rihou.cc:555/tv/[FY]邵氏喜剧
 喜剧影院,http://74.91.26.218:82/live/vlxjyy.m3u8
-美亚电影,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20120
 美亚电影,http://pull-vivek.speedws.com/live/aaamydy.flv
 美亚电影,http://rihou.cc:555/tv/[Hv]美亚电影|
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
