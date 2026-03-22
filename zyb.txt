@@ -37,7 +37,7 @@ BesTV4K记录,http://223.167.125.208:4022/rtp/233.18.204.170:5140
 新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 求索纪录,http://120.198.84.146:9901/tsfile/live/1097_1.m3u8
 IPTV-野外,http://120.198.84.146:9901/tsfile/live/1017_1.m3u8
-广东科教高清电信,http://171.38.107.34:8282/tsfile/live/1003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+LOVE NATURE,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20281
 
 第一直播,#group#
 📺央视,#genre#
@@ -686,6 +686,7 @@ BesTV 4K记录,http://www.yyf1991.top:9999/rtp/233.18.204.170:5140
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 环球,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 凤凰卫视中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+凤凰卫视中文,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20060#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20063
 凤凰卫视中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 凤凰卫视中文,http://171.38.107.34:8282/tsfile/live/1083_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 凤凰卫视中文,http://r.jdshipin.com/cCCzW
@@ -697,6 +698,7 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 凤凰卫视中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰卫视中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv$湖北荆州07-16酒店
 凤凰卫视资讯,http://115.44.143.127:18180/TV00000000000000000009@HHZT
+凤凰卫视资讯,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20061#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20064
 凤凰卫视资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰卫视资讯,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500960
 凤凰卫视资讯,http://cdn6.163189.xyz/163189/fhzx
@@ -731,6 +733,7 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 TVB翡翠4K,https://o11.163189.xyz/stream/tvb/fct4k/
 TVB翡翠4K,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct4
 TVB翡翠,http://115.44.143.127:18180/TV00000000000000000032@HHZT
+TVB翡翠,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20066#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20068#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20067#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20094#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20387#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20456
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 TVB翡翠,http://120.198.84.146:9901/tsfile/live/1020_1.m3u8
 TVB翡翠,http://o11.163189.xyz/stream/tvb/fct/
@@ -749,6 +752,7 @@ TVB翡翠,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct3
 TVB翡翠,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB翡翠,http://r.jdshipin.com/qrfbg
 TVB明珠,http://115.44.143.127:18180/TV00000000000000000035@HHZT
+TVB明珠,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20071
 TVB明珠,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20506
 TVB明珠,https://o11.163189.xyz/stream/tvb/mzt/
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
@@ -760,27 +764,28 @@ TVB明珠,http://pull-vivek.speedws.com/live/aaamingzhu.flv
 TVB明珠,http://mytv.cdn.loc.cc/o12.php?id=mzt
 TVB明珠,http://120.238.5.44:1698/hls/84/index.m3u8
 TVB明珠,https://iptv.xmtv.cc.cd/?id=29
+TVB星河,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20101#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20102
 TVB星河,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxh
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB星河频道,https://php.jdshipin.com:2096/TVOD/iptv.php?id=xinghe
 TVB星河频道,https://cdn10.163189.xyz/stream/163189/xinghe/
 TVB星河频道,http://tl.061833.xyz/tl/null-7
-TVBPlus,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20507
+TVBPlus,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20072
 TVBPlus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVBPlus,http://o11.163189.xyz/stream/tvb/tvbp/
 TVBPlus,http://r.jdshipin.com/Nr5jq
 TVBPlus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
+TVB1,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20095
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVB1,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500946
 TVB1,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500951
-TVB1,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20095
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
+TVBJ1,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20096
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVBJ1,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500945
-TVBJ1,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20096
 TVBJ1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=j1
-TVBe,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500950
 TVBe,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20097
+TVBe,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500950
 TVBDrama,http://iptv.4666888.xyz/iptv2A.php?id=33
 TVBDrama,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500948
 TVBDrama,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20099#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20098
@@ -806,12 +811,15 @@ TVB翡翠剧集台4,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家
 TVB翡翠剧集台5,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20136#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20100
 千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
 千禧经典,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20105
+TVB DRAMA,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20099#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20098
+千禧经典,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20105
 千禧经典,https://o11.163189.xyz/stream/live/tvbc/#https://smt.1678520.xyz/smt3.2.5.php?id=Tvbclassic
 千禧经典,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbc
 千禧经典,http://rihou.cc:555/tv/[SX]无线千禧
 千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
-娱乐新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20073
 娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
+娱乐新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20107#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20069
+娱乐新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20073
 娱乐新闻,http://tl.061833.xyz/tl/null-14
 娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
 娱乐新闻,http://pull-vivek.speedws.com/live/aaahjfc.flv
@@ -830,9 +838,9 @@ myTV SUPER Kids Channel,http://tl.061833.xyz/tl/mytvsuperfree
 myTV SUPER Kids Channel,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20110
 myTV SUPER EYT,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20106
 myTV SUPER劇場,http://iptv.4666888.xyz/iptv2A.php?id=24
+myTV SUPER劇場,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20108
 myTV SUPER劇場,http://pull-vivek.speedws.com/live/aaahyjt.flv
 myTV SUPER劇場,http://tl.061833.xyz/tl/null-4
-myTV SUPER劇場,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20108
 myTV SUPER亞洲劇台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20109
 myTV SUPER亞洲劇台,http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
 myTV SUPER亞洲劇台,http://tl.061833.xyz/tl/null-4 
@@ -854,17 +862,18 @@ AstroQJ,http://rihou.cc:555/tv/[Uk]astro-QJ
 Astro欢喜台,http://o11.163189.xyz/stream/live/hxt/
 Astro欢喜台,https://smt.1678520.xyz/smt3.2.3.php?id=Huahee
 KTSF_26,http://rihou.cc:555/tv/[Uk]KTSF26
+Hoy76,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20077
 Hoy76,http://pull-vivek.speedws.com/live/aaahoy76.flv
 Hoy76,http://hls.168.us.kg/u/76/master.m3u8
-Hoy76,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20077
 Hoy77,http://115.44.143.127:18180/TV00000000000000000036@HHZT
+Hoy77,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20078
 Hoy77,http://iptv.4666888.xyz/iptv2A.php?id=35
 Hoy77,http://pull-vivek.speedws.com/live/aaahoy77.flv
 Hoy77,http://hls.168.us.kg/u/77/master.m3u8
 Hoy77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
 Hoy77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
-Hoy77,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20078
 Hoy78,http://115.44.143.127:18180/TV00000000000000000088@HHZT
+HOY 78,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20079
 Hoy78,http://pull-vivek.speedws.com/live/aaahoy78.flv
 Hoy78,http://hls.168.us.kg/u/78/master.m3u8
 Hoy78,http://cdn.163189.xyz/163189/hoy78
@@ -875,6 +884,7 @@ HUB娱家,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20
 VIU,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20070
 VIUTV,http://115.44.143.127:18180/TV00000000000000000037@HHZT
 VIUTV,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20075
+VIUTV,http://67.220.71.199:2347/livehttpplay?channel_id=30032
 VIUTV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv2
 VIUTV,http://r.jdshipin.com/vSJvl
 VIUTV,http://r.jdshipin.com/TcKr2
@@ -900,14 +910,17 @@ RTHK32,http://rihou.cc:555/tv/[PL]RTHK-32
 RTHK34,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk34hd
 RTHK35,http://115.44.143.127:18180/TV00000000000000000045@HHZT
 RTHK35,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk35hd
+NOW新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20082
 NOW新闻,https://cdn.163189.xyz/163189/now
-Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
-Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
+NOW新闻,http://rihou.cc:555/tv/[Cx]Now新闻
+NOW新闻,http://rihou.cc:555/tv/[Mt]Now新闻
+NOW华剧,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20085
 NOW星影,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20413
 NOW星影,http://rihou.cc:555/tv/[Hv]Now星影
 NOW星影,http://rihou.cc:555/tv/[Uk]Now星影
 NOW爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
 NOW爆谷,http://rihou.cc:555/tv/[Uk]Now爆谷
+NOW直播,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20502
 NOW财经,http://rihou.cc:555/tv/[Uk]Now财经
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
@@ -936,6 +949,7 @@ NOW财经,http://rihou.cc:555/tv/[Uk]Now财经
 
 🌊台湾,#genre#
 亚洲旅游,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20273
+壹新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20503
 鏡电视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20180
 鏡电视新闻,https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8
 鏡电视新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
@@ -944,6 +958,7 @@ NOW财经,http://rihou.cc:555/tv/[Uk]Now财经
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,http://rihou.cc:555/tv/[mn]华视闽南
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
+华视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20310
 华视新闻,http://rihou.cc:555/tv/[mn]华视新闻
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
 华视教育,http://74.91.26.218:82/live/ctsjy.m3u8
@@ -954,9 +969,12 @@ NOW财经,http://rihou.cc:555/tv/[Uk]Now财经
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,https://iptv.xmtv.cc.cd/?id=44
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
+TVBS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20188
+TVBSAsia,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20190
 TVBS新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbsnewshd
-TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS新闻,https://stream1.freetv.fun/f634b30feb2314084b09bf4d382e222ad6a4d9dec34f48b1bd291d201a23d565.m3u8
+TVBS新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20168
+TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 TVBS精采,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20191
 TVBS精采,http://rihou.cc:555/tv/[Hv]tvbS闽南
@@ -976,6 +994,7 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 中视新闻,http://119.91.7.169:2026/TW.php?id=中视新闻
 中视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20183#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20171
 中视新闻,http://rihou.cc:555/tv/[mn]中视新闻
+中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20173
 中天新聞,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
 中天新聞,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新聞,https://stream1.freetv.fun/ae5d52a5c49891c28f1a39ea6b9fc0d67e3e7f02e100b9bf1ff1dc7cc5fa4662.m3u8
@@ -1101,10 +1120,10 @@ rollor-2,https://stream1.freetv.fun/64328a0c0ac0762a7ae75aa9497de281c00c4a62d422
 纬来戏剧,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20416
 纬来育乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20417
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-华艺,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20466
-华艺,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20223
-华艺,http://iptv.4666888.xyz/iptv2A.php?id=37
-华艺,https://live.catvod.com/live.php?id=weishichinese_twn
+华艺中文台,http://iptv.4666888.xyz/iptv2A.php?id=37
+华艺中文台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20223
+华艺中文台,https://live.catvod.com/live.php?id=weishichinese_twn
+华艺中文台壹,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20466
 互动英语,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20209
 創世電視,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20119
 時尚運動X,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20314
@@ -1113,6 +1132,7 @@ ELTA娱乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 🌊中文,#genre#
+BLOOMBERG,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20019
 CHU,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20374
 CHU,http://cdn6.163189.xyz/163189/chu
 CHU,https://cdn6.163189.xyz/163189/chu
@@ -1156,17 +1176,21 @@ CHC动作电影,http://zczb.aylzline.top:8899/rtp/225.1.2.215:11428
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://120.238.5.44:1698/hls/70/index.m3u8
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
+POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 POPc,http://pull-vivek.speedws.com/live/aaapopc.flv
 POPc,http://tl.061833.xyz/tl/popc
 POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
+天映,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20116#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20117
+天映,http://pull-vivek.speedws.com/live/aaatypd.flv
+天映,https://o11.163189.xyz/stream/live/typd/
+天映,http://rihou.cc:555/tv/[SX]天映频道
+天映经典,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20114#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20115
 天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 天映经典,http://120.238.5.44:1698/hls/59/index.m3u8
 天映经典,http://rihou.cc:555/tv/[Uk]天映经典
-天映频道,http://pull-vivek.speedws.com/live/aaatypd.flv
-天映频道,https://o11.163189.xyz/stream/live/typd/
-天映频道,http://rihou.cc:555/tv/[SX]天映频道
+爱奇艺,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20238
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
 爱奇艺,http://o11.163189.xyz/stream/live/iqiyi/
 爱奇艺,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20238
@@ -1233,6 +1257,13 @@ BesTV4K电影,http://223.167.125.208:4022/rtp/233.18.204.169:5140
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+AMC,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20255
+HBO,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20327
+HBO FAMILY,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20251
+HBO HITS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20388
+HISTORY,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20289
+HITS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20283
+私人影院频晴,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
 
 娱乐频道,#group#
 
