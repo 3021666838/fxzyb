@@ -1197,7 +1197,6 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 龙华洋片,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20242
 龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
 龙华洋片,http://cdn8.163189.xyz/163189/lhyp
-邵氏喜剧,http://rihou.cc:555/tv/[FY]邵氏喜剧
 喜剧影院,http://74.91.26.218:82/live/vlxjyy.m3u8
 美亚电影,http://pull-vivek.speedws.com/live/aaamydy.flv
 美亚电影,http://rihou.cc:555/tv/[Hv]美亚电影|
@@ -1221,17 +1220,12 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 华数电影3,http://114.254.76.186:4022/rtp/239.3.1.236:2000
 BesTV4K电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.169:5140
 BesTV4K电影,http://223.167.125.208:4022/rtp/233.18.204.169:5140
-邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 AMC,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20255
 HBO,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20327
 HBO FAMILY,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20251
 HBO HITS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20388
 HISTORY,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20289
 HITS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20283
-私人影院频晴,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
 
 娱乐频道,#group#
 
