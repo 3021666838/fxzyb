@@ -486,6 +486,7 @@ cdtv6,http://183.220.20.17:4321/rtp/239.10.0.16:5140
 
 🎵综艺,#genre#
 八大娱乐,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y7aDNpAfjzaMAqe_OTcTj_JEmkQ2hnIWzZTYOHOyNIgzFL9azndzyljm8AUG4pul_bDMDeQWJTXZ191drTc3T3MKWEg-9G-IXLsktixPMciYZfBr6KZ8j9fZTcAjOtIs6GipyQqjPWTyMqCFz9kS7BVQEdnb-6mx82_w7pbv3wblz9M4uDkSTjJUefdcoU3-hw.m3u8?u=1756878715
+八大娱乐台,https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=badaentertain
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
 民视综艺,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20217
 豬哥亮歌廳秀,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20317
@@ -682,6 +683,7 @@ BesTV 4K记录,http://www.yyf1991.top:9999/rtp/233.18.204.170:5140
 🌊港台,#genre#
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 环球,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+凤凰卫视中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰卫视中文,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20060#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20063
 凤凰卫视中文,http://171.38.107.34:8282/tsfile/live/1083_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
@@ -689,14 +691,12 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 凤凰卫视中文,http://120.198.86.186:9901/tsfile/live/1037_1.m3u8?key=txiptv
 凤凰卫视中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv
 凤凰卫视中文,http://r.jdshipin.com/cCCzW
-凤凰卫视中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视中文,http://120.238.5.44:1698/hls/86/index.m3u8
 凤凰卫视中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
 凤凰卫视中文,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzw
 凤凰卫视中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰卫视中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv$湖北荆州07-16酒店
-凤凰卫视资讯,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500960
 凤凰卫视资讯,http://115.44.143.127:18180/TV00000000000000000009@HHZT
 凤凰卫视资讯,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20061#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20064
 凤凰卫视资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
@@ -1086,9 +1086,12 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖洋戲劇,https://stream1.freetv.fun/6fe99a12ac024f6d592a187ef379c9634e4f3b14ac75ebf30a675ca7d8cb454d.ctv
 八大综合,http://ip1.xiaomidadi.cn:8088/live/mQpfhtEPk6sSnO0S/hls.m3u8
+八大综合,https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=badazhonghe
 八大综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y2NcDLAMny_Xqf9mK2_Uh-WAYfLzOQp23oOkbBKRdhO9NiXckoXfk1G_wolfUyEIHoo3IAS4NjGYYo1s8Yw3TBp47aePy1RsKMhXEFyNRUZ7iKwb82DRsB5PucOXjgJBsbNupM2t7bKDqeg3YaOfbGONJiBH6Yz94ZGQoFKO0uj5yRgDDMNfx2G5ZIqLEsW00Q.m3u8?u=1756878715
 八大第一,http://ip1.xiaomidadi.cn:8088/live/6b8CYVkZDFPCSqZI/hls.m3u8
+八大第一,https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=badafirst
 八大戏剧,http://ip1.xiaomidadi.cn:8088/live/jOj7LMOIfjOCcTBL/hls.m3u8
+八大戏剧,https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=badadrama
 八大戏剧,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y6o-F4D_x9zYme5aZ36MHOmQrqlcvA2C72Rsb7ExBWNqb988uxXp6_RYrW4X71WoIOaU4p2IEF38G75yyYH8y9ffVGHgIzXJyVbnZZDD-qaZbQObnXlTjdOIO_DAKJrxfCTMm64JTX2K0txvdxtYllcUNSj2skXZaflLLZIo6TJb_x5KIvzUY2u1ofE3JwFhSw.m3u8?u=1756878715
 台湾戏剧,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20320#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20241
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
@@ -1098,6 +1101,7 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 生命电视,https://stream1.freetv.fun/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8
 生命电视,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 唯心电视,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8 
+信大,https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=xinda_twn
 金光布袋戏,http://iptv.4666888.xyz/iptv2A.php?id=38
 MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 MOMO綜合,rtmp://f13h.mine.nu:1935/sat/tv761
