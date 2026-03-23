@@ -46,6 +46,7 @@ CCTV4K,http://111.56.121.176:80/050000001888/5000000188800000217/index.m3u8
 CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
 CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing-1.m3u8
 CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing-5.m3u8
+CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CCTV1-综合,http://111.56.121.176:80/050000001888/5000000188800000011/index.m3u8
 CCTV1-综合,http://yhms.aylzline.top:8899/rtp/225.1.2.47:10276
@@ -601,18 +602,22 @@ BesTV 4K记录,http://www.yyf1991.top:9999/rtp/233.18.204.170:5140
 北京新闻,http://zb.hexuntong.net:8188/rtp/239.3.1.159:8000
 北京国际,http://www.taoli.website:23234/rtp/239.3.1.235:8000
 北京国际,http://www.xiongnas.top:8888/rtp/239.3.1.235:8000
+天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 天津新闻,http://111.162.165.185:8086/rtp/225.1.1.130:5002
 天津新闻,http://111.162.46.178:8888/rtp/225.1.1.130:5002
 天津新闻,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.130:5002
 天津文艺,http://111.162.165.185:8086/rtp/225.1.1.131:5002
 天津文艺,http://111.162.46.178:8888/rtp/225.1.1.131:5002
 天津文艺,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.131:5002
+天津文艺,http://38.75.136.137:98/gslb/dsdqpub/tjtv2.m3u8?auth=testpub
 天津影视,http://111.162.165.185:8086/rtp/225.1.1.149:5002
 天津影视,http://111.162.46.178:8888/rtp/225.1.1.149:5002
 天津影视,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.149:5002
+天津影视,http://38.75.136.137:98/gslb/dsdqpub/tjtv3.m3u8?auth=testpub
 天津都市,http://111.162.165.185:8086/rtp/225.1.1.128:5002
 天津都市,http://111.162.46.178:8888/rtp/225.1.1.128:5002
 天津都市,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.128:5002
+天津都市,http://38.75.136.137:98/gslb/dsdqpub/tjtv4.m3u8?auth=testpub
 天津教育,http://111.162.165.185:8086/rtp/225.1.1.129:5002
 天津教育,http://111.162.46.178:8888/rtp/225.1.1.129:5002
 天津教育,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.129:5002
@@ -622,6 +627,7 @@ BesTV 4K记录,http://www.yyf1991.top:9999/rtp/233.18.204.170:5140
 湖南电影,http://www.andy-nas.top:8623/rtp/239.76.253.106:9000
 湖南电影,http://www.zlizi.cn:4023/rtp/239.76.252.119:9000
 湖南电影,http://www.zlizi.cn:4023/rtp/239.76.253.106:9000
+东方影视,http://38.75.136.137:98/gslb/dsdqpub/shdsjhd.m3u8?auth=testpub
 东方影视,http://woshiysy1.synology.me:4999/rtp/233.18.204.4:5140
 东方影视,http://woshiysy1.synology.me:4999/rtp/233.18.204.55:5140
 东方影视,http://wsc2007123.myds.me:30100/rtp/233.18.204.4:5140
@@ -661,9 +667,11 @@ BesTV 4K记录,http://www.yyf1991.top:9999/rtp/233.18.204.170:5140
 山东生活,http://113.120.108.132:4000/rtp/239.21.1.175:5002
 山东生活,http://122.5.98.97:17923/rtp/239.21.1.175:5002
 山东生活,http://www.niuin.com:4022/rtp/239.21.1.175:5002
-峨眉电影,http://183.220.107.138:4022/rtp/239.11.0.11:5140
-峨眉电影,http://183.220.20.17:4321/rtp/239.11.0.11:5140
-重庆影视,http://27.9.39.25:8010/rtp/225.0.4.192:7980
+欢笑剧场,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
+都市剧场,http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
+重庆影视剧,http://38.75.136.137:98/gslb/dsdqpub/cqys.m3u8?auth=testpub
+广西影视,http://38.75.136.137:98/gslb/dsdqpub/gxys.m3u8?auth=testpub
+湖北影视,http://38.75.136.137:98/gslb/dsdqpub/hbys.m3u8?auth=testpub
 
 
 
@@ -688,6 +696,7 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 凤凰卫视中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰卫视中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv$湖北荆州07-16酒店
+凤凰卫视资讯,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500960
 凤凰卫视资讯,http://115.44.143.127:18180/TV00000000000000000009@HHZT
 凤凰卫视资讯,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20061#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20064
 凤凰卫视资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
@@ -772,17 +781,22 @@ TVBPlus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVBPlus,http://o11.163189.xyz/stream/tvb/tvbp/
 TVBPlus,http://r.jdshipin.com/Nr5jq
 TVBPlus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
+TVB1,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500946
+TVB1,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500951
 TVB1,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20095
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVB1,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500946
 TVB1,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500951
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
+TVBJ1,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500945
 TVBJ1,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20096
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVBJ1,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500945
 TVBJ1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=j1
+TVBe,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500950
 TVBe,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20097
 TVBe,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500950
+TVBDrama,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500948
 TVBDrama,http://iptv.4666888.xyz/iptv2A.php?id=33
 TVBDrama,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20099#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20098
 TVBDrama,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500948
@@ -809,6 +823,7 @@ TVB翡翠剧集台1(黄金华剧台),http://iptv.4666888.xyz/iptv2A.php?id=34
 娱乐新闻,http://tl.061833.xyz/tl/null-14
 娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
 娱乐新闻,http://pull-vivek.speedws.com/live/aaahjfc.flv
+无线新闻,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500949
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500949
 无线新闻,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxw
@@ -923,6 +938,9 @@ NOW财经,http://rihou.cc:555/tv/[Uk]Now财经
 香港C+_-频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 唐人卫视,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 欧洲华文电视台,http://oh.eztv.vip/live/eztv1.m3u8
+FAIRCHILD EAST,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500942
+FAIRCHILD WEST,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500943
+FAIRCHILD W,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500944
 
 
 🌊台湾,#genre#
@@ -949,6 +967,8 @@ NOW财经,http://rihou.cc:555/tv/[Uk]Now财经
 非凡新聞,https://iptv.xmtv.cc.cd/?id=44
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20188
+TVBS综艺,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500947
+TVBS综艺,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500956
 TVBS综艺,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20190
 TVBS综艺,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500947
 TVBS综艺,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500956
@@ -1047,9 +1067,11 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
 台视财经,http://rihou.cc:555/tv/[mn]台视财经
 公视,http://ip1.xiaomidadi.cn:8088/live/NiyUTyfIW1axBJp2/hls.m3u8
+公视,http://74.91.26.218:82/live/pts.m3u8
 公视,http://211.72.174.95:8116/0.ts
 公视,http://rihou.cc:555/tv/[mn]公视闽南
 公视,http://74.91.26.218:82/live/pts.m3u8
+公视2,http://74.91.26.218:82/live/ptsty.m3u8
 公视2,http://rihou.cc:555/tv/[mn]公视闽语
 公视2,http://74.91.26.218:82/live/ptsty.m3u8
 公视3,http://74.91.26.218:82/live/ptsse.m3u8
