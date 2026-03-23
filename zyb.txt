@@ -493,6 +493,7 @@ cdtv6,http://183.220.20.17:4321/rtp/239.10.0.16:5140
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
 民视综艺,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20217
 豬哥亮歌廳秀,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20317
+ELTA娱乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20303
 ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
 娱乐扒叔轮播,http://8.155.43.98:35455/douyu/9624581
 韩流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63
@@ -1039,7 +1040,6 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 台视新闻,http://rihou.cc:555/tv/[Hk]民视新聞
 台视新闻,http://rihou.cc:555/tv/[mn]台视新闻
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
-台视综合,
 台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
 台视综合,http://rihou.cc:555/tv/[mn]台视综合
@@ -1108,12 +1108,6 @@ rollor-2,https://stream1.freetv.fun/64328a0c0ac0762a7ae75aa9497de281c00c4a62d422
 华艺中文台,http://iptv.4666888.xyz/iptv2A.php?id=37
 华艺中文台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20223
 华艺中文台,https://live.catvod.com/live.php?id=weishichinese_twn
-华艺中文台壹,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20466
-互动英语,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20209
-創世電視,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20119
-時尚運動X,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20314
-空间居家,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20274
-ELTA娱乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20303
 麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 🌊中文,#genre#
