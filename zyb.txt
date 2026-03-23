@@ -1221,16 +1221,6 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 华数电影3,http://114.254.76.186:4022/rtp/239.3.1.236:2000
 BesTV4K电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.169:5140
 BesTV4K电影,http://223.167.125.208:4022/rtp/233.18.204.169:5140
-北京IPTV4k,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.249:8001
-淘电影,http://www.chutouge.top:34022/rtp/239.3.1.250:8001
-淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
-淘剧场,http://www.chutouge.top:34022/rtp/239.3.1.95:8001
-淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
-淘娱乐,http://www.chutouge.top:34022/rtp/239.3.1.100:8001
-淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
-淘Baby,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.238:8001
-淘baby,http://www.chutouge.top:34022/rtp/239.3.1.238:8001
-萌宠TV,http://www.chutouge.top:34022/rtp/239.3.1.102:8001
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
