@@ -416,9 +416,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 厦门卫视,http://lysj.aylzline.top:8899/rtp/225.1.2.96:10570
 厦门卫视,http://yhms.aylzline.top:8899/rtp/225.1.2.96:10570
 厦门卫视,http://zczb.aylzline.top:8899/rtp/225.1.2.96:10570
-福建乡村,http://110.80.17.38:9999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-福建新闻,http://110.80.17.38:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-福建旅游,http://110.80.17.38:9999/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226334/1.m3u8?fmt=ts2hls
 兵团卫视,http://zczb.aylzline.top:8899/rtp/225.1.2.98:10582
 海峡卫视,http://r.jdshipin.com/WtYt3
@@ -443,22 +440,27 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 都市剧场,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.48:5140
 
 -----------------------------------------------------------------------------------
-
+cdtv1,http://wan1.tangwudi.cc:47859/udp/239.94.0.154:5140
 cdtv1,http://nas.201606.xyz:4022/rtp/239.10.0.11:5140
 cdtv1,http://183.220.107.138:4022/rtp/239.10.0.11:5140
 cdtv1,http://183.220.20.17:4321/rtp/239.10.0.11:5140
+cdtv2,http://wan1.tangwudi.cc:47859/udp/239.94.0.155:5140
 cdtv2,http://nas.201606.xyz:4022/rtp/239.10.0.12:5140
 cdtv2,http://183.220.107.138:4022/rtp/239.10.0.12:5140
 cdtv2,http://183.220.20.17:4321/rtp/239.10.0.12:5140
+cdtv3,http://wan1.tangwudi.cc:47859/udp/239.94.0.156:5140
 cdtv3,http://nas.201606.xyz:4022/rtp/239.10.0.13:5140
 cdtv3,http://183.220.107.138:4022/rtp/239.10.0.13:5140
 cdtv3,http://183.220.20.17:4321/rtp/239.10.0.13:5140
+cdtv4://wan1.tangwudi.cc:47859/udp/239.94.0.157:5140
 cdtv4,http://nas.201606.xyz:4022/rtp/239.10.0.14:5140
 cdtv4,http://183.220.107.138:4022/rtp/239.10.0.14:5140
 cdtv4,http://183.220.20.17:4321/rtp/239.10.0.14:5140
+cdtv5,http://wan1.tangwudi.cc:47859/udp/239.94.0.158:5140
 cdtv5,http://nas.201606.xyz:4022/rtp/239.10.0.15:5140
 cdtv5,http://183.220.107.138:4022/rtp/239.10.0.15:5140
 cdtv5,http://183.220.20.17:4321/rtp/239.10.0.15:5140
+cdtv6,http://wan1.tangwudi.cc:47859/udp/239.94.0.159:5140
 cdtv6,http://nas.201606.xyz:4022/rtp/239.10.0.16:5140
 cdtv6,http://183.220.107.138:4022/rtp/239.10.0.16:5140
 cdtv6,http://183.220.20.17:4321/rtp/239.10.0.16:5140
@@ -670,9 +672,6 @@ BesTV 4K记录,http://www.yyf1991.top:9999/rtp/233.18.204.170:5140
 山东生活,http://www.niuin.com:4022/rtp/239.21.1.175:5002
 欢笑剧场,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
 都市剧场,http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
-重庆影视剧,http://38.75.136.137:98/gslb/dsdqpub/cqys.m3u8?auth=testpub
-广西影视,http://38.75.136.137:98/gslb/dsdqpub/gxys.m3u8?auth=testpub
-湖北影视,http://38.75.136.137:98/gslb/dsdqpub/hbys.m3u8?auth=testpub
 
 
 
@@ -722,8 +721,8 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 翡翠,http://r.jdshipin.com/thuYX
 翡翠,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 翡翠,http://r.jdshipin.com/thuYX
-TVB翡翠4K,https://o11.163189.xyz/stream/tvb/fct4k/
-TVB翡翠4K,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct4
+翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台4K,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct4
 TVB翡翠,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20066#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20068#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20067#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20094#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20387#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20456
 TVB翡翠,http://115.44.143.127:18180/TV00000000000000000032@HHZT
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
@@ -741,9 +740,9 @@ TVB翡翠,http://67.220.71.199:2347/livehttpplay?channel_id=30025
 TVB翡翠,https://o11.163189.xyz/stream/live/jade/
 TVB翡翠,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB翡翠,http://r.jdshipin.com/qrfbg
-TVB明珠,http://115.44.143.127:18180/TV00000000000000000035@HHZT
 TVB明珠,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20071
 TVB明珠,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20506
+TVB明珠,http://115.44.143.127:18180/TV00000000000000000035@HHZT
 TVB明珠,http://zgxsd.f3322.net:9901/tsfile/live/1035_1.m3u8?key=txiptv
 TVB明珠,http://120.198.86.186:9901/tsfile/live/1009_1.m3u8?key=txiptv
 TVB明珠,http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv
@@ -801,7 +800,7 @@ TVB金曲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20
 娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
 娱乐新闻,http://pull-vivek.speedws.com/live/aaahjfc.flv
 无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
-无线新闻台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20107#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20069
+无线新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20107#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20069
 无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
 有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 有线新闻,http://rihou.cc:555/tv/[Uk]有线新闻
@@ -826,14 +825,6 @@ myTV SUPErfootball3,http://tl.061833.xyz/tl/null-4
 myTV SUPErfootball3,http://tl.061833.xyz/tl/null-13 
 myTV SUPErfootball3,http://rihou.cc:555/tv/[Uk]无线亚剧
 myTV SUPErfootball3,http://67.220.67.246:2347/livehttpplay?channel_id=13023
-AstroAEC,https://o11.163189.xyz/stream/live/aec/
-AstroAOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
-AstroAOD,https://o11.163189.xyz/stream/live/aod/
-AstroQJ,https://o11.163189.xyz/stream/live/qj/
-AstroQJ,http://rihou.cc:555/tv/[Uk]astro-QJ
-Astro欢喜台,http://o11.163189.xyz/stream/live/hxt/
-Astro欢喜台,https://smt.1678520.xyz/smt3.2.3.php?id=Huahee
-Hoy76,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20077
 Hoy76,http://pull-vivek.speedws.com/live/aaahoy76.flv
 Hoy77,http://115.44.143.127:18180/TV00000000000000000036@HHZT
 Hoy77,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20078
@@ -1129,16 +1120,19 @@ NewTV泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_108
 NewTV搞笑剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
 NewTV大家剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
 NewTV爱情剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
+CHC影迷电影,http://wan1.tangwudi.cc:47859/udp/239.94.1.174:5140
 CHC影迷电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.175:5140
 CHC影迷电影,http://171.38.107.34:8282/tsfile/live/1067_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
 CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
 CHC影迷电影,http://171.213.166.136:9090/rtp/239.94.1.174:5140
+CHC家庭影院,http://wan1.tangwudi.cc:47859/udp/239.94.1.173:5140
 CHC家庭影院,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.173:5140
 CHC家庭影院,http://113.26.251.182:8009/hls/82/index.m3u8
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://120.238.5.44:1698/hls/69/index.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
+CHC动作电影,http://wan1.tangwudi.cc:47859/udp/239.94.1.175:5140
 CHC动作电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.174:5140
 CHC动作电影,http://120.198.84.146:9901/tsfile/live/1018_1.m3u8
 CHC动作电影,http://lysj.aylzline.top:8899/rtp/225.1.2.215:11428
@@ -1212,6 +1206,7 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 华数电影3,http://114.254.76.186:4022/rtp/239.3.1.236:2000
 BesTV4K电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.169:5140
 BesTV4K电影,http://223.167.125.208:4022/rtp/233.18.204.169:5140
+长影频道,http://111.26.109.75:19020/hls/27/index.m3u8
 AMC,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20255
 HBO,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20327
 HBO FAMILY,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20251
