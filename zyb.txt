@@ -708,7 +708,7 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 凤凰卫视资讯,http://120.238.5.44:1698/hls/85/index.m3u8
 凤凰卫视资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰卫视资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
+凤凰卫视香港,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰香港,http://120.238.5.44:1698/hls/87/index.m3u8
@@ -800,6 +800,11 @@ TVB金曲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20
 娱乐新闻,http://tl.061833.xyz/tl/null-14
 娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
 娱乐新闻,http://pull-vivek.speedws.com/live/aaahjfc.flv
+无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
+无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
+有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
+有线新闻,http://rihou.cc:555/tv/[Uk]有线新闻
+有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 TVB翡翠剧集台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20134
 TVB翡翠剧集台1(黄金华剧台),http://iptv.4666888.xyz/iptv2A.php?id=34
 TVB翡翠剧集台1(黄金华剧台),http://pull-vivek.speedws.com/live/aaahjhj.flv
@@ -810,19 +815,16 @@ TVB翡翠剧集台1(黄金华剧台),http://pull-vivek.speedws.com/live/aaahjhj.
 千禧经典,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbc
 千禧经典,http://rihou.cc:555/tv/[SX]无线千禧
 千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
-myTV SUPER劇場,http://iptv.4666888.xyz/iptv2A.php?id=24
-myTV SUPER劇場,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20108
-myTV SUPER劇場,http://pull-vivek.speedws.com/live/aaahyjt.flv
-myTV SUPER劇場,http://tl.061833.xyz/tl/null-4
-myTV SUPER亞洲劇台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20109
-myTV SUPER亞洲劇台,http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
-myTV SUPER亞洲劇台,http://tl.061833.xyz/tl/null-4 
-myTV SUPER亞洲劇台,http://tl.061833.xyz/tl/null-13 
-myTV SUPER亞洲劇台,http://rihou.cc:555/tv/[Uk]无线亚剧
-myTV SUPER亞洲劇台,http://67.220.67.246:2347/livehttpplay?channel_id=13023
-有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
-有线新闻,http://rihou.cc:555/tv/[Uk]有线新闻
-有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
+myTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=24
+myTV SUPER,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20108
+myTV SUPER,http://pull-vivek.speedws.com/live/aaahyjt.flv
+myTV SUPER,http://tl.061833.xyz/tl/null-4
+myTV SUPErfootball3,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20109
+myTV SUPErfootball3,http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
+myTV SUPErfootball3,http://tl.061833.xyz/tl/null-4 
+myTV SUPErfootball3,http://tl.061833.xyz/tl/null-13 
+myTV SUPErfootball3,http://rihou.cc:555/tv/[Uk]无线亚剧
+myTV SUPErfootball3,http://67.220.67.246:2347/livehttpplay?channel_id=13023
 AstroAEC,https://o11.163189.xyz/stream/live/aec/
 AstroAOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 AstroAOD,https://o11.163189.xyz/stream/live/aod/
