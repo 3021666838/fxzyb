@@ -535,30 +535,7 @@ BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 第二直播,#group#
 
 📡其他,#genre#
-CHC家庭影院,http://111.162.165.185:8086/rtp/225.1.1.213:5002
-CHC家庭影院,http://111.162.46.178:8888/rtp/225.1.1.213:5002
-CHC家庭影院,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.213:5002
-CHC动作电影,http://111.162.165.185:8086/rtp/225.1.1.215:5002
-CHC动作电影,http://111.162.46.178:8888/rtp/225.1.1.215:5002
-CHC动作电影,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.215:5002
-CHC动作电影,http://111.162.165.185:8086/rtp/225.1.1.214:5002
-CHC动作电影,http://111.162.46.178:8888/rtp/225.1.1.214:5002
-CHC动作电影,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.214:5002
-CHC家庭影院,http://182.207.218.54:999/tsfile/live/1014_1.m3u8?key=txiptv
-CHC家庭影院,http://fuxin.yunjifei.top:999/tsfile/live/1014_1.m3u8?key=txiptv
-CHC动作电影,http://182.207.218.54:999/tsfile/live/1015_1.m3u8?key=txiptv
-CHC动作电影,http://fuxin.yunjifei.top:999/tsfile/live/1015_1.m3u8?key=txiptv
-CHC影迷电影,http://182.207.218.54:999/tsfile/live/1016_1.m3u8?key=txiptv
-CHC影迷电影,http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8?key=txiptv
-BesTV 4K动画,http://woshiysy1.synology.me:4999/rtp/233.18.204.171:5140
-BesTV 4K动画,http://wsc2007123.myds.me:30100/rtp/233.18.204.171:5140
-BesTV 4K动画,http://www.yyf1991.top:9999/rtp/233.18.204.171:5140
-BesTV 4K电影,http://woshiysy1.synology.me:4999/rtp/233.18.204.169:5140
-BesTV 4K电影,http://wsc2007123.myds.me:30100/rtp/233.18.204.169:5140
-BesTV 4K电影,http://www.yyf1991.top:9999/rtp/233.18.204.169:5140
-BesTV 4K记录,http://woshiysy1.synology.me:4999/rtp/233.18.204.170:5140
-BesTV 4K记录,http://wsc2007123.myds.me:30100/rtp/233.18.204.170:5140
-BesTV 4K记录,http://www.yyf1991.top:9999/rtp/233.18.204.170:5140
+
 辽宁影视,http://119.113.170.139:4000/rtp/232.0.0.97:8534
 辽宁影视,http://124.93.62.165:4000/rtp/232.0.0.97:8534
 辽宁影视,http://182.207.218.54:999/tsfile/live/1001_1.m3u8?key=txiptv
@@ -1042,6 +1019,7 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 靖天資訊,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20302
 靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖洋戲劇,https://stream1.freetv.fun/6fe99a12ac024f6d592a187ef379c9634e4f3b14ac75ebf30a675ca7d8cb454d.ctv
+八大优,http://36.239.133.104/udp/230.1.2.239:11111
 八大综合,http://ip1.xiaomidadi.cn:8088/live/mQpfhtEPk6sSnO0S/hls.m3u8
 八大综合,https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=badazhonghe
 八大综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y2NcDLAMny_Xqf9mK2_Uh-WAYfLzOQp23oOkbBKRdhO9NiXckoXfk1G_wolfUyEIHoo3IAS4NjGYYo1s8Yw3TBp47aePy1RsKMhXEFyNRUZ7iKwb82DRsB5PucOXjgJBsbNupM2t7bKDqeg3YaOfbGONJiBH6Yz94ZGQoFKO0uj5yRgDDMNfx2G5ZIqLEsW00Q.m3u8?u=1756878715
@@ -1200,13 +1178,22 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 好萊塢電影台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20248
 采昌影劇,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20316
 壹电影,http://rihou.cc:555/tv/[Uk]闽壹电影
+长影频道,http://111.26.109.75:19020/hls/27/index.m3u8
 华数电影1,http://120.198.84.146:9901/tsfile/live/1016_1.m3u8
 华数电影2,http://171.38.107.34:8282/tsfile/live/1089_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 华数电影3,http://home.yeuo.com:8995/rtp/239.252.220.212:5140$南昌电信615
 华数电影3,http://114.254.76.186:4022/rtp/239.3.1.236:2000
+BesTV 4K动画,http://woshiysy1.synology.me:4999/rtp/233.18.204.171:5140
+BesTV 4K动画,http://wsc2007123.myds.me:30100/rtp/233.18.204.171:5140
+BesTV 4K动画,http://www.yyf1991.top:9999/rtp/233.18.204.171:5140
+BesTV 4K电影,http://woshiysy1.synology.me:4999/rtp/233.18.204.169:5140
+BesTV 4K电影,http://wsc2007123.myds.me:30100/rtp/233.18.204.169:5140
+BesTV 4K电影,http://www.yyf1991.top:9999/rtp/233.18.204.169:5140
+BesTV 4K记录,http://woshiysy1.synology.me:4999/rtp/233.18.204.170:5140
+BesTV 4K记录,http://wsc2007123.myds.me:30100/rtp/233.18.204.170:5140
+BesTV 4K记录,http://www.yyf1991.top:9999/rtp/233.18.204.170:5140
 BesTV4K电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.169:5140
 BesTV4K电影,http://223.167.125.208:4022/rtp/233.18.204.169:5140
-长影频道,http://111.26.109.75:19020/hls/27/index.m3u8
 AMC,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20255
 HBO,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20327
 HBO FAMILY,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20251
