@@ -118,6 +118,7 @@ CCTV15-音乐,http://yhms.aylzline.top:8899/rtp/225.1.2.221:11440
 CCTV15-音乐,http://lysj.aylzline.top:8899/rtp/225.1.2.221:11440
 CCTV15-音乐,http://zczb.aylzline.top:8899/rtp/225.1.2.221:11440
 CCTV15-音乐,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+CCTV16-奥林匹克,http://223.167.125.208:4022/udp/233.18.204.114:5140
 CCTV16-奥林匹克,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/1.m3u8?fmt=ts2hls
 CCTV16-奥林匹克,http://111.56.121.176:80/050000001888/5000000188800000097/index.m3u8
 CCTV16-奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
@@ -214,10 +215,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 📡卫视,#genre#
 北京卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226322/1.m3u8?fmt=ts2hls
+北京卫视4K,http://223.167.125.208:4022/udp/233.18.204.209:5140
 北京卫视4K,http://106.53.99.30/tv/bj.php?id=bjws4k
 东方卫视4K(看东方),https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K(看东方),http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226360/1.m3u8?fmt=ts2hls
+东方卫视4K,http://223.167.125.208:4022/udp/233.18.204.224:5140
 东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
 江苏卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226356/1.m3u8?fmt=ts2hls
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
@@ -238,6 +241,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
 ---------------------------------------------------------------------------------------
 湖南卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226361/1.m3u8?fmt=ts2hls
+湖南卫视4K,http://223.167.125.208:4022/udp/233.18.204.227:5140
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 广东卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226357/1.m3u8?fmt=ts2hls
@@ -259,6 +263,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 河南卫视4K,http://zczb.aylzline.top:8899/rtp/225.1.2.237:11530
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
+欢笑剧场4K,http://www.imengu.cn:6666/udp/233.50.200.52:5140
+欢笑剧场4K,http://223.167.125.208:4022/udp/233.18.204.115:5140
 欢笑剧场4K,http://lihetl.com:9527/rtp/232.0.0.150:9160
 欢笑剧场4K,http://gslbserv.itv.cmvideo.cn/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 --------------------------------------------------------------------------------------------------------------------
@@ -1031,6 +1037,10 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 台湾戏剧,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20320#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20241
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
+人间卫视,https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
+人间卫视,https://stream1.freetv.fun/ren-jian-wei-shi-8.m3u8
+人间卫视,https://stream1.freetv.fun/ren-jian-wei-shi-2.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 生命电视,https://stream1.freetv.fun/1f8ae2cd70bd10ff4b1c7e7ce2db6d534f0b00caca678a8a513cadd462c30528.m3u8
@@ -1179,21 +1189,40 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 采昌影劇,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20316
 壹电影,http://rihou.cc:555/tv/[Uk]闽壹电影
 长影频道,http://111.26.109.75:19020/hls/27/index.m3u8
-华数电影1,http://120.198.84.146:9901/tsfile/live/1016_1.m3u8
-华数电影2,http://171.38.107.34:8282/tsfile/live/1089_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-华数电影3,http://home.yeuo.com:8995/rtp/239.252.220.212:5140$南昌电信615
-华数电影3,http://114.254.76.186:4022/rtp/239.3.1.236:2000
-BesTV 4K动画,http://woshiysy1.synology.me:4999/rtp/233.18.204.171:5140
-BesTV 4K动画,http://wsc2007123.myds.me:30100/rtp/233.18.204.171:5140
-BesTV 4K动画,http://www.yyf1991.top:9999/rtp/233.18.204.171:5140
-BesTV 4K电影,http://woshiysy1.synology.me:4999/rtp/233.18.204.169:5140
-BesTV 4K电影,http://wsc2007123.myds.me:30100/rtp/233.18.204.169:5140
-BesTV 4K电影,http://www.yyf1991.top:9999/rtp/233.18.204.169:5140
-BesTV 4K记录,http://woshiysy1.synology.me:4999/rtp/233.18.204.170:5140
-BesTV 4K记录,http://wsc2007123.myds.me:30100/rtp/233.18.204.170:5140
-BesTV 4K记录,http://www.yyf1991.top:9999/rtp/233.18.204.170:5140
-BesTV4K电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.169:5140
-BesTV4K电影,http://223.167.125.208:4022/rtp/233.18.204.169:5140
+华数-电影1,http://120.198.84.146:9901/tsfile/live/1016_1.m3u8
+华数-电影2,http://171.38.107.34:8282/tsfile/live/1089_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+华数-电影3,http://home.yeuo.com:8995/rtp/239.252.220.212:5140$南昌电信615
+华数-电影3,http://114.254.76.186:4022/rtp/239.3.1.236:2000
+华数-城市剧场,http://220.176.219.27:9000/udp/239.252.220.75:5140
+华数-碟战剧场,http://220.176.219.27:9000/udp/239.252.220.145:5140
+华数-动作影院,http://220.176.219.27:9000/udp/239.252.220.85:5140
+华数-古装剧场,http://220.176.219.27:9000/udp/239.252.220.77:5140
+华数-家庭影院,http://220.176.219.27:9000/udp/239.252.220.86:5140
+华数-经典电影,http://220.176.219.27:9000/udp/239.252.220.139:5140
+华数-军旅剧场,http://220.176.219.27:9000/udp/239.252.220.76:5140
+华数-武侠剧场,http://220.176.219.27:9000/udp/239.252.220.88:5140
+华数-喜剧影院,http://220.176.219.27:9000/udp/239.252.220.79:5140
+华数-星影,http://220.176.219.27:9000/udp/239.252.220.210:5140
+淘电影,http://bigy.timwin.top:5400/udp/239.3.1.250:8001
+淘精彩,http://bigy.timwin.top:5400/udp/239.3.1.178:8001
+淘剧场,http://bigy.timwin.top:5400/udp/239.3.1.95:8001
+淘娱乐,http://bigy.timwin.top:5400/udp/239.3.1.100:8001
+
+百事通4K电影,http://223.167.125.208:4022/udp/233.18.204.169:5140
+百事通4K电影,http://woshiysy1.synology.me:4999/rtp/233.18.204.169:5140
+百事通4K电影,http://wsc2007123.myds.me:30100/rtp/233.18.204.169:5140
+百事通4K电影,http://www.yyf1991.top:9999/rtp/233.18.204.169:5140
+百事通4K电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.169:5140
+百事通4K电影,http://223.167.125.208:4022/rtp/233.18.204.169:5140
+百事通4K动画,http://223.167.125.208:4022/udp/233.18.204.171:5140
+百事通4K动画,http://woshiysy1.synology.me:4999/rtp/233.18.204.171:5140
+百事通4K动画,http://wsc2007123.myds.me:30100/rtp/233.18.204.171:5140
+百事通4K动画,http://www.yyf1991.top:9999/rtp/233.18.204.171:5140
+百事通4K纪实,http://223.167.125.208:4022/udp/233.18.204.170:5140
+百事通4K纪实,http://woshiysy1.synology.me:4999/rtp/233.18.204.170:5140
+百事通4K纪实,http://wsc2007123.myds.me:30100/rtp/233.18.204.170:5140
+百事通4K纪实,http://www.yyf1991.top:9999/rtp/233.18.204.170:5140
+峨眉电影4K,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
 AMC,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20255
 HBO,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20327
 HBO FAMILY,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20251
