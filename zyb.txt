@@ -530,10 +530,11 @@ CCTV14,http://39.165.39.49:19901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&a
 梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
 梦工厂动漫,https://iptv.xmtv.cc.cd/?id=40
 靖洋卡通台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20295
-Duck TV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
+DuckTV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
 Astro酷哒哒,https://o11.163189.xyz/stream/live/test/
 BesTV4K动画,http://223.167.125.208:4022/rtp/233.18.204.171:5140
 BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
+
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8
 广东少儿,http://171.38.107.34:8282/tsfile/live/1009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 
@@ -912,6 +913,7 @@ TVBS综艺,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500956
 TVBS综艺,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20190
 TVBS综艺,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500947
 TVBS综艺,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500956
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbsnewshd
 TVBS新闻,https://stream1.freetv.fun/f634b30feb2314084b09bf4d382e222ad6a4d9dec34f48b1bd291d201a23d565.m3u8
 TVBS新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20168
@@ -1059,7 +1061,9 @@ rollor-2,https://stream1.freetv.fun/64328a0c0ac0762a7ae75aa9497de281c00c4a62d422
 原住民電視,https://stream1.freetv.fun/22c5da7b5ac3a6d641b5139dd45ef88240a204734ee223eaaec7aee861817cfe.m3u8
 國會頻道1,https://stream1.freetv.fun/97052e7e1481fa2710f5a32d8c5f18895fecc52bcb09a899e7a120f62942fcb7.m3u8
 國會頻道2,https://stream1.freetv.fun/63206fe434afcb684f00ac9f6fb1275b50f575403290e1e904bc182c4d3c7af3.m3u8
+大爱1,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 大爱1,http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
+大愛2,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 大愛2,https://t.freetv.fun/live/da-ai-er-6.m3u8
 大爱2,http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
 大愛2,https://stream1.freetv.fun/e3d7090cb0108fdc9e6b123b620e7df1fcceb056414c6539356a2a1ee12c04d4.m3u8
