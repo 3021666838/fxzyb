@@ -23,10 +23,7 @@
 博斯网球,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20267
 博斯运动一台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20263
 博斯运动二台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20264
-NOW SPORTS 1,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20504
-NOW SPORTS PRIME,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20505
-NOW SPORTS 641,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20384
-SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
+
 
 ☘️纪实,#genre#
 BesTV4K记录,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.170:5140
@@ -37,7 +34,7 @@ BesTV4K记录,http://223.167.125.208:4022/rtp/233.18.204.170:5140
 新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 求索纪录,http://120.198.84.146:9901/tsfile/live/1097_1.m3u8
 IPTV-野外,http://120.198.84.146:9901/tsfile/live/1017_1.m3u8
-LOVE NATURE,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20281
+
 
 第一直播,#group#
 📺央视,#genre#
@@ -494,9 +491,9 @@ cdtv6,http://183.220.20.17:4321/rtp/239.10.0.16:5140
 
 🎵综艺,#genre#
 八大娱乐,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y7aDNpAfjzaMAqe_OTcTj_JEmkQ2hnIWzZTYOHOyNIgzFL9azndzyljm8AUG4pul_bDMDeQWJTXZ191drTc3T3MKWEg-9G-IXLsktixPMciYZfBr6KZ8j9fZTcAjOtIs6GipyQqjPWTyMqCFz9kS7BVQEdnb-6mx82_w7pbv3wblz9M4uDkSTjJUefdcoU3-hw.m3u8?u=1756878715
-八大娱乐台,https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=badaentertain
+八大娱乐,https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=badaentertain
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
-民视综艺,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20217
+民視綜藝,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20217
 豬哥亮歌廳秀,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20317
 ELTA娱乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20303
 ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
@@ -524,17 +521,15 @@ CCTV14,http://39.165.39.49:19901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&a
 嘉佳卡通,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225968/1.m3u8?fmt=ts2hls
 嘉佳卡通,http://39.165.39.49:19901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=0&authid=0
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-1.php
-优漫卡通,http://39.165.39.49:19901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=0&authid=0
 动漫秀场,http://171.113.250.179:4022/rtp/239.69.2.6:11190
 动漫秀场,http://gslbserv.itv.cmvideo.cn/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
-梦工厂动漫,https://iptv.xmtv.cc.cd/?id=40
+梦工场动漫,https://iptv.xmtv.cc.cd/?id=40
 靖洋卡通台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20295
 DuckTV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
 Astro酷哒哒,https://o11.163189.xyz/stream/live/test/
 BesTV4K动画,http://223.167.125.208:4022/rtp/233.18.204.171:5140
 BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
-
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8
 广东少儿,http://171.38.107.34:8282/tsfile/live/1009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 
@@ -547,10 +542,10 @@ BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 辽宁影视,http://124.93.62.165:4000/rtp/232.0.0.97:8534
 辽宁影视,http://182.207.218.54:999/tsfile/live/1001_1.m3u8?key=txiptv
 辽宁影视,http://fuxin.yunjifei.top:999/tsfile/live/1001_1.m3u8?key=txiptv
+辽宁都市,http://fuxin.yunjifei.top:999/tsfile/live/1000_1.m3u8?key=txiptv
 辽宁都市,http://119.113.170.139:4000/rtp/232.0.0.88:8890
 辽宁都市,http://124.93.62.165:4000/rtp/232.0.0.88:8890
 辽宁都市,http://182.207.218.54:999/tsfile/live/1000_1.m3u8?key=txiptv
-辽宁都市,http://fuxin.yunjifei.top:999/tsfile/live/1000_1.m3u8?key=txiptv
 辽宁生活,http://119.113.170.139:4000/rtp/232.0.0.96:8538
 辽宁生活,http://124.93.62.165:4000/rtp/232.0.0.96:8538
 辽宁生活,http://182.207.218.54:999/tsfile/live/1004_1.m3u8?key=txiptv
@@ -1197,21 +1192,6 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 华数-电影2,http://171.38.107.34:8282/tsfile/live/1089_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 华数-电影3,http://home.yeuo.com:8995/rtp/239.252.220.212:5140$南昌电信615
 华数-电影3,http://114.254.76.186:4022/rtp/239.3.1.236:2000
-华数-城市剧场,http://220.176.219.27:9000/udp/239.252.220.75:5140
-华数-碟战剧场,http://220.176.219.27:9000/udp/239.252.220.145:5140
-华数-动作影院,http://220.176.219.27:9000/udp/239.252.220.85:5140
-华数-古装剧场,http://220.176.219.27:9000/udp/239.252.220.77:5140
-华数-家庭影院,http://220.176.219.27:9000/udp/239.252.220.86:5140
-华数-经典电影,http://220.176.219.27:9000/udp/239.252.220.139:5140
-华数-军旅剧场,http://220.176.219.27:9000/udp/239.252.220.76:5140
-华数-武侠剧场,http://220.176.219.27:9000/udp/239.252.220.88:5140
-华数-喜剧影院,http://220.176.219.27:9000/udp/239.252.220.79:5140
-华数-星影,http://220.176.219.27:9000/udp/239.252.220.210:5140
-淘电影,http://bigy.timwin.top:5400/udp/239.3.1.250:8001
-淘精彩,http://bigy.timwin.top:5400/udp/239.3.1.178:8001
-淘剧场,http://bigy.timwin.top:5400/udp/239.3.1.95:8001
-淘娱乐,http://bigy.timwin.top:5400/udp/239.3.1.100:8001
-
 百事通4K电影,http://223.167.125.208:4022/udp/233.18.204.169:5140
 百事通4K电影,http://woshiysy1.synology.me:4999/rtp/233.18.204.169:5140
 百事通4K电影,http://wsc2007123.myds.me:30100/rtp/233.18.204.169:5140
