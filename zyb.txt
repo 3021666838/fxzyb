@@ -48,6 +48,7 @@ CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
 CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing-1.m3u8
 CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing-5.m3u8
 CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV8K,http://119.91.7.169:1777/216.75.129.13.php?id=21
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CCTV1-综合,http://111.56.121.176:80/050000001888/5000000188800000011/index.m3u8
 CCTV1-综合,http://yhms.aylzline.top:8899/rtp/225.1.2.47:10276
@@ -666,6 +667,7 @@ BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 欧洲华文电视台,http://oh.eztv.vip/live/eztv1.m3u8
 环球,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+凤凰卫视中文,http://jump.fantanggame.com:19981/stream/channelid/1820554070?profile=pass
 凤凰卫视中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰卫视中文,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20060#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20063
@@ -680,6 +682,7 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 凤凰卫视中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰卫视中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv$湖北荆州07-16酒店
 凤凰卫视中文,http://r.jdshipin.com/cCCzW
+凤凰卫视资讯,http://jump.fantanggame.com:19981/stream/channelid/1529989483?profile=pass
 凤凰卫视资讯,http://115.44.143.127:18180/TV00000000000000000009@HHZT
 凤凰卫视资讯,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20061#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20064
 凤凰卫视资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
@@ -690,6 +693,7 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 凤凰卫视资讯,http://120.238.5.44:1698/hls/85/index.m3u8
 凤凰卫视资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰卫视资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰卫视香港,http://jump.fantanggame.com:19981/stream/channelid/1744673927?profile=pass
 凤凰卫视香港,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
 凤凰卫视香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰卫视香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
