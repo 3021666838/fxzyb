@@ -1,9 +1,10 @@
 马年大吉,#group#
 
 ☘️视觉,#genre#
-4KR,http://117.63.157.175:8888/rtp/239.49.8.82:8000
-4KR,http://dx.joygala.cn:8118/rtp/239.49.8.82:8000
-4KR,http://hl.nijingjing.site:8888/rtp/239.49.8.82:8000
+🎶4KR,http://dx.joygala.cn:8118/rtp/239.49.8.82:8000
+🎶4KR,http://117.63.157.175:8888/rtp/239.49.8.82:8000
+🎶4KR,http://hl.nijingjing.site:8888/rtp/239.49.8.82:8000
+🎶点歌台频道,https://live.iill.top/douyu/85894
 4K视频[刷新就是新内容],http://xjj1.716888.xyz/fenlei/4k/4k.php
 抖音女神,https://api.e1e1.top/crosswise/cw.php
 环球直播,https://live.iill.top/douyu/9036111
@@ -18,11 +19,7 @@
 睛彩竞技,http://111.56.121.176:80/050000001888/5000000188800000106/index.m3u8
 睛彩篮球,http://111.56.121.176:80/050000001888/5000000188800000107/index.m3u8
 睛彩青少,http://111.56.121.176:80/050000001888/5000000188800000109/index.m3u8
-晴彩广场舞,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523
-博斯无限,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20268
-博斯网球,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20267
-博斯运动一台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20263
-博斯运动二台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20264
+睛彩广场舞,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523
 
 
 ☘️纪实,#genre#
@@ -639,9 +636,22 @@ BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 港澳台直播,#group#
 
 🌊港台,#genre#
+环球,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 欧洲华文电视台,http://oh.eztv.vip/live/eztv1.m3u8
-环球,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
+娱乐新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20107#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20069
+娱乐新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20073
+娱乐新闻,http://tl.061833.xyz/tl/null-14
+娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
+娱乐新闻,http://pull-vivek.speedws.com/live/aaahjfc.flv
+无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
+无线新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20107#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20069
+无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
+有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
+有线新闻,http://rihou.cc:555/tv/[Uk]有线新闻
+有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
+凤凰卫视中文,http://jump.fantanggame.com:38981/stream/channelid/225693146?profile=pass
 凤凰卫视中文,http://jump.fantanggame.com:19981/stream/channelid/1820554070?profile=pass
 凤凰卫视中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视中文,http://iptv.4666888.xyz/iptv2A.php?id=27
@@ -687,9 +697,9 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 翡翠台4K,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct4
 TVB翡翠,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20066#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20068#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20067#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20094#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20387#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20456
 TVB翡翠,http://115.44.143.127:18180/TV00000000000000000032@HHZT
+TVB翡翠,http://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 TVB翡翠,http://120.198.84.146:9901/tsfile/live/1020_1.m3u8
-TVB翡翠,http://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠,http://183.2.73.18:9901/tsfile/live/1011_1.m3u8?key=txiptv
 TVB翡翠,http://120.198.86.186:9901/tsfile/live/1007_1.m3u8?key=txiptv
 TVB翡翠,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
@@ -724,11 +734,6 @@ TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
 TVB星河,https://php.jdshipin.com:2096/TVOD/iptv.php?id=xinghe
 TVB星河,http://tl.061833.xyz/tl/null-7
-TVBPlus,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20072
-TVBPlus,https://o11.163189.xyz/stream/tvb/tvbp/
-TVBPlus,http://o11.163189.xyz/stream/tvb/tvbp/
-TVBPlus,http://r.jdshipin.com/Nr5jq
-TVBPlus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
 TVB1,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20095
 TVB1,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500946
 TVB1,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500951
@@ -755,19 +760,7 @@ TVB獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
 TVB金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
 TVB金曲,https://iptv.xmtv.cc.cd/?id=57
 TVB金曲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20142
-娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
-娱乐新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20107#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20069
-娱乐新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20073
-娱乐新闻,http://tl.061833.xyz/tl/null-14
-娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
-娱乐新闻,http://pull-vivek.speedws.com/live/aaahjfc.flv
-无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
-无线新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20107#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20069
-无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
-有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
-有线新闻,http://rihou.cc:555/tv/[Uk]有线新闻
-有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
-翡翠剧集台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20134
+TVB娱乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20134
 翡翠剧集台1(黄金华剧台),http://iptv.4666888.xyz/iptv2A.php?id=34
 翡翠剧集台1(黄金华剧台),http://pull-vivek.speedws.com/live/aaahjhj.flv
 千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
@@ -787,18 +780,18 @@ myTV SUPErfootball3,http://tl.061833.xyz/tl/null-4
 myTV SUPErfootball3,http://tl.061833.xyz/tl/null-13 
 myTV SUPErfootball3,http://rihou.cc:555/tv/[Uk]无线亚剧
 myTV SUPErfootball3,http://67.220.67.246:2347/livehttpplay?channel_id=13023
-Hoy76,http://pull-vivek.speedws.com/live/aaahoy76.flv
-Hoy77,http://115.44.143.127:18180/TV00000000000000000036@HHZT
-Hoy77,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20078
-Hoy77,http://iptv.4666888.xyz/iptv2A.php?id=35
-Hoy77,http://pull-vivek.speedws.com/live/aaahoy77.flv
-Hoy77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
-Hoy77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
-Hoy78,http://115.44.143.127:18180/TV00000000000000000088@HHZT
-Hoy78,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20079
-Hoy78,http://pull-vivek.speedws.com/live/aaahoy78.flv
-Hoy78,http://cdn.163189.xyz/163189/hoy78
-Hoy78,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20079
+HOY剧集台,https://cdn11.163189.xyz/163189/c4df21397505587b
+HOY77,http://115.44.143.127:18180/TV00000000000000000036@HHZT
+HOY77,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20078
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+HOY77,http://pull-vivek.speedws.com/live/aaahoy77.flv
+HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
+HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
+HOY78,http://115.44.143.127:18180/TV00000000000000000088@HHZT
+HOY78,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20079
+HOY78,http://pull-vivek.speedws.com/live/aaahoy78.flv
+HOY78,http://cdn.163189.xyz/163189/hoy78
+HOY78,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20079
 HUB都会,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20544
 HUB都会,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20383
 HUB娱家,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20546
@@ -1326,6 +1319,20 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 采昌影劇,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20316
 壹电影,http://rihou.cc:555/tv/[Uk]闽壹电影
 长影频道,http://111.26.109.75:19020/hls/27/index.m3u8
+影迷數位電影台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv011/index.m3u8
+影迷數位電影台,https://mao.ffmking888.dpdns.org/?id=5b2x6La35pW45L2N6Zu75b2x5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+影迷數位電影台,https://cdn12.178.indevs.in/163189/a643783ec587540e
+影迷數位電影台,https://4gtv.dxjc.pp.ua/4gtv-4gtv011/index.m3u8
+影迷數位電影台,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv011/index.m3u8?proxy=true
+影迷數位電影台,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv011/index.m3u8?proxy=true
+影迷數位電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv011
+影迷數位電影台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv011
+影迷數位電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
+影迷數位紀實台,http://tw-ty-line-11-1-5.sudatech.store:20319/li-litv-ftv15/index.m3u8?proxy=true
+影迷數位紀實台,https://4gtv.dxjc.pp.ua/li-litv-ftv15/index.m3u8
+影迷數位紀實台,https://mao.ffmking888.dpdns.org/?id=5b2x6La35pW45L2N57SA5aam5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+影迷數位紀實台,https://4gtv.dxjc.pp.ua/litv-ftv15/index.m3u8
+影迷數位紀實台,http://tw-ty-line-11-1-5.sudatech.store:20319/litv-ftv15/index.m3u8?proxy=true
 AMC,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20255
 HBO,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20327
 HBO FAMILY,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20251
