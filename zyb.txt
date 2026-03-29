@@ -931,11 +931,14 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
 东森综合,http://ip1.xiaomidadi.cn:8088/live/KMn24bon5j3PxYY2/hls.m3u8
 东森综合,http://iptv.4666888.xyz/iptv2A.php?id=58
+东森电影,https://smt.1678520.xyz/163189/a2a1ea789e237e18
+东森戏剧,https://smt.1678520.xyz/163189/2824421ea53c4891
+东森洋片,https://smt.1678520.xyz/163189/c0e7a31a1ec220fd
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视34.5,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20208
 东森美洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20210
-东森美洲台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20175
-东森ETTV中國台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20539
+东森美洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20175
+东森亚洲卫视,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20539
 三立综合,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20204
 三立综合,http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
 三立新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20170
@@ -1047,7 +1050,9 @@ rollor-2,https://stream1.freetv.fun/64328a0c0ac0762a7ae75aa9497de281c00c4a62d422
 好消息2,https://stream1.freetv.fun/90a32c9a78fc2e20774ece8485711988aec55e5f5af1969cae6effb290d3608a.m3u8
 好消息2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
+纬来电影,https://smt.1678520.xyz/163189/145487bee05856fc
 纬来电影,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20227
+纬来戏剧,https://smt.1678520.xyz/163189/3586bd154f561caa
 纬来戏剧,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20416
 纬来育乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20417
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
@@ -1280,12 +1285,12 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 淘剧场,http://221.220.132.211:8012/rtp/239.3.1.95:8001$北京联通21
 淘剧场,http://115.171.216.84:4000/rtp/225.1.8.37:8002$北京电信31
 淘剧场,http://114.254.83.46:8888/rtp/239.3.1.95:8001$北京联通31
-淘4K,http://123.118.59.252:8686/rtp/239.3.1.249:8001$北京联通11
-淘4K,http://115.171.80.124:1688/rtp/225.1.8.211:8002$北京电信11
-淘4K,http://115.171.216.58:4000/rtp/225.1.8.211:8002$北京电信21
-淘4K,http://221.220.132.211:8012/rtp/239.3.1.249:8001$北京联通21
-淘4K,http://115.171.216.84:4000/rtp/225.1.8.211:8002$北京电信31
-淘4K,http://114.254.83.46:8888/rtp/239.3.1.249:8001$北京联通31
+IPTV 4K,http://123.118.59.252:8686/rtp/239.3.1.249:8001$北京联通11
+IPTV 4K,http://115.171.80.124:1688/rtp/225.1.8.211:8002$北京电信11
+IPTV 4K,http://115.171.216.58:4000/rtp/225.1.8.211:8002$北京电信21
+IPTV 4K,http://221.220.132.211:8012/rtp/239.3.1.249:8001$北京联通21
+IPTV 4K,http://115.171.216.84:4000/rtp/225.1.8.211:8002$北京电信31
+IPTV 4K,http://114.254.83.46:8888/rtp/239.3.1.249:8001$北京联通31
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
 北京重温经典,http://api.kkhk.itv888.vip:8080/streams/50f74c763e0/index.m3u8
 天映,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20116#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20117
@@ -1306,33 +1311,20 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 美亚电影,http://rihou.cc:555/tv/[Hv]美亚电影|
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影,https://iptv.xmtv.cc.cd/?id=30
+纬来电影,https://smt.1678520.xyz/163189/145487bee05856fc
 纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=40
 纬来电影,http://rihou.cc:555/tv/[Uk]纬来电影
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 东森电影,https://iptv.xmtv.cc.cd/?id=48
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 靖天电影,https://iptv.xmtv.cc.cd/?id=56
+龙祥时代,https://smt.1678520.xyz/163189/76e7d8326be4c1bb
 龙祥时代,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20247
 龙祥时代,http://171.38.107.34:8282/tsfile/live/1081_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 风云恐怖电影,http://iptv.4666888.xyz/iptv2A.php?id=59
 好萊塢電影台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20248
 采昌影劇,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20316
 壹电影,http://rihou.cc:555/tv/[Uk]闽壹电影
-长影频道,http://111.26.109.75:19020/hls/27/index.m3u8
-影迷數位電影台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv011/index.m3u8
-影迷數位電影台,https://mao.ffmking888.dpdns.org/?id=5b2x6La35pW45L2N6Zu75b2x5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
-影迷數位電影台,https://cdn12.178.indevs.in/163189/a643783ec587540e
-影迷數位電影台,https://4gtv.dxjc.pp.ua/4gtv-4gtv011/index.m3u8
-影迷數位電影台,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv011/index.m3u8?proxy=true
-影迷數位電影台,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv011/index.m3u8?proxy=true
-影迷數位電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv011
-影迷數位電影台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv011
-影迷數位電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
-影迷數位紀實台,http://tw-ty-line-11-1-5.sudatech.store:20319/li-litv-ftv15/index.m3u8?proxy=true
-影迷數位紀實台,https://4gtv.dxjc.pp.ua/li-litv-ftv15/index.m3u8
-影迷數位紀實台,https://mao.ffmking888.dpdns.org/?id=5b2x6La35pW45L2N57SA5aam5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
-影迷數位紀實台,https://4gtv.dxjc.pp.ua/litv-ftv15/index.m3u8
-影迷數位紀實台,http://tw-ty-line-11-1-5.sudatech.store:20319/litv-ftv15/index.m3u8?proxy=true
 AMC,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20255
 HBO,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20327
 HBO FAMILY,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20251
