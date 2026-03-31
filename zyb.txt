@@ -47,6 +47,8 @@ BesTV4K记录,http://223.167.125.208:4022/rtp/233.18.204.170:5140
 生活时尚,http://116.2.161.226:4010/rtp/232.0.0.107:1234$辽宁联通11
 生活时尚,http://1.58.65.129:4000/rtp/229.58.190.102:5000$黑龙江联通11
 IPTV-野外,http://120.198.84.146:9901/tsfile/live/1017_1.m3u8
+LOVE NATURE,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20281
+GLOBALTREKKER,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20271
 
 
 第一直播,#group#
@@ -58,6 +60,7 @@ CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing-1.m3u8
 CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing-5.m3u8
 CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV8K,http://119.91.7.169:1777/216.75.129.13.php?id=21
+CCTV8K,http://rihou.cc:555/tv/CCTV8K
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CCTV1-综合,http://111.56.121.176:80/050000001888/5000000188800000011/index.m3u8
 CCTV1-综合,http://yhms.aylzline.top:8899/rtp/225.1.2.47:10276
@@ -560,12 +563,11 @@ BesTV4K动画,http://223.167.125.208:4022/rtp/233.18.204.171:5140
 BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8
 广东少儿,http://171.38.107.34:8282/tsfile/live/1009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-
+NICK,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20421
 
 第二直播,#group#
 
 📡其他,#genre#
-欢笑剧场,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
 都市剧场,http://woshiysy1.synology.me:4999/rtp/233.18.204.48:5140
 都市剧场,http://wsc2007123.myds.me:30100/rtp/233.18.204.48:5140
 都市剧场,http://www.yyf1991.top:9999/rtp/233.18.204.48:5140
@@ -615,6 +617,13 @@ BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 天津影视,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.149:5002
 天津都市,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.128:5002
 天津教育,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.129:5002
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
+海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
+海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
+海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
+海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 
 
 
@@ -1048,7 +1057,11 @@ rollor-2,https://stream1.freetv.fun/64328a0c0ac0762a7ae75aa9497de281c00c4a62d422
 华艺中文台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20223
 华艺中文台,https://live.catvod.com/live.php?id=weishichinese_twn
 麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
+ELTA娱乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20303
+ELTA日韩,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20261
+ELTA生活旅遊,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20272
+EYETV戏剧台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20284
+EYETV旅游,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20215
 
 
 🌊中文,#genre#
@@ -1102,30 +1115,33 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 POPc,http://pull-vivek.speedws.com/live/aaapopc.flv
 POPc,http://tl.061833.xyz/tl/popc
 POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
-龙华电影,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20240
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
+龙华电影,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20240
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华经典,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20245
 龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
-龙华经典,http://cdn8.163189.xyz/163189/lhjd
-龙华偶像,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20243
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
 龙华偶像,https://cdn8.163189.xyz/163189/lhox
+龙华偶像,http://cdn8.163189.xyz/163189/lhox
+龙华偶像,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20243
 龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩,https://cdn8.163189.xyz/163189/lhrh
+龙华日韩,http://cdn8.163189.xyz/163189/lhrh
 龙华日韩,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20244
 龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华日韩,http://cdn8.163189.xyz/163189/lhrh
-龙华日韩,https://cdn8.163189.xyz/163189/lhrh
-龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
-龙华戏剧,https://stream1.freetv.fun/70b5ad6ff59705957267010cfef48103f103a460f450474547b3b76da85d491b.m3u8
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
+龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+龙华戏剧,https://stream1.freetv.fun/70b5ad6ff59705957267010cfef48103f103a460f450474547b3b76da85d491b.m3u8
+龙华洋片,https://cdn8.163189.xyz/163189/lhyp
+龙华洋片,https://cdn8.163189.xyz/163189/lhyp
+龙华洋片,http://cdn8.163189.xyz/163189/lhyp
 龙华洋片,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20242
 龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
-龙华洋片,http://cdn8.163189.xyz/163189/lhyp
+龙华卡通,https://cdn8.163189.xyz/163189/lhkt
 华数4K,http://123.118.59.252:8686/rtp/239.3.1.236:2000$北京联通11
 华数4K,http://115.171.80.124:1688/rtp/225.1.8.80:2000$北京电信11
 华数4K,http://220.176.218.198:9000/udp/239.252.220.212:5140$江西电信11
@@ -1320,6 +1336,12 @@ HBO FAMILY,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 HBO HITS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20388
 HISTORY,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20289
 HITS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20283
+THRILL,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20259
+ROCK ENTERTAINMENT,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20275
+MCE,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20425
+CINEMA WORLD,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20256
+DA VINCI,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20319
+FGM GOLD,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20325
 
 娱乐频道,#group#
 
