@@ -303,13 +303,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
 湖北卫视,http://m.061899.xyz/mg/hubws
 湖北卫视,http://k.061899.xyz/m.php?id=hubws
-广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
-广东珠江,http://r.jdshipin.com/sE5vO
-广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
 大湾区卫视,http://171.38.107.34:8282/tsfile/live/1002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 大湾区卫视,http://120.198.84.146:9901/tsfile/live/1009_1.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-广东公共,http://171.38.107.34:8282/tsfile/live/1007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 广西卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226344/1.m3u8?fmt=ts2hls
 广西卫视,http://yhms.aylzline.top:8899/rtp/225.1.2.34:10198
 广西卫视,http://lysj.aylzline.top:8899/rtp/225.1.2.34:10198
@@ -715,7 +711,10 @@ BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 遂昌综合频道,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 松阳综合频道,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8 
-
+广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
+广东珠江,http://r.jdshipin.com/sE5vO
+广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
+广东公共,http://171.38.107.34:8282/tsfile/live/1007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 
 
 
