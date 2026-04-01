@@ -298,6 +298,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 广西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
 海南卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226368/1.m3u8?fmt=ts2hls
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 海南卫视,http://lysj.aylzline.top:8899/rtp/225.1.2.107:11620
 海南卫视,http://yhms.aylzline.top:8899/rtp/225.1.2.107:11620
 海南卫视,http://zczb.aylzline.top:8899/rtp/225.1.2.107:11620
@@ -399,6 +400,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 安多卫视,https://t.freetv.fun/live/an-duo-wei-shi.m3u8
 安多卫视,https://t.freetv.fun/live/an-duo-wei-shi-1.m3u8
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 三沙卫视,http://lysj.aylzline.top:8899/rtp/225.1.2.225:11464
 三沙卫视,http://zczb.aylzline.top:8899/rtp/225.1.2.225:11464
 三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi.m3u8
@@ -570,8 +572,6 @@ NICK,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20421
 天津影视,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.149:5002
 天津都市,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.128:5002
 天津教育,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.129:5002
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
 海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
 海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
