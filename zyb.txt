@@ -724,6 +724,7 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 凤凰卫视中文,http://jump.fantanggame.com:38981/stream/channelid/225693146?profile=pass
 凤凰卫视中文,http://jump.fantanggame.com:19981/stream/channelid/1820554070?profile=pass
+凤凰卫视中文,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰卫视中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰卫视中文,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20060#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20063
@@ -739,6 +740,7 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 凤凰卫视中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv$湖北荆州07-16酒店
 凤凰卫视中文,http://r.jdshipin.com/cCCzW
 凤凰卫视资讯,http://jump.fantanggame.com:19981/stream/channelid/1529989483?profile=pass
+凤凰卫视资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 凤凰卫视资讯,http://115.44.143.127:18180/TV00000000000000000009@HHZT
 凤凰卫视资讯,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20061#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20064
 凤凰卫视资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
@@ -750,6 +752,7 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 凤凰卫视资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰卫视资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰卫视香港,http://jump.fantanggame.com:19981/stream/channelid/1744673927?profile=pass
+凤凰卫视香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
 凤凰卫视香港,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
 凤凰卫视香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰卫视香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
@@ -768,6 +771,7 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 翡翠台4K,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct4
 TVB翡翠,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB翡翠,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20066#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20068#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20067#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20094#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20387#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20456
+TVB翡翠,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 TVB翡翠,http://115.44.143.127:18180/TV00000000000000000032@HHZT
 TVB翡翠,http://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
@@ -1165,18 +1169,21 @@ NewTV搞笑剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_108
 NewTV大家剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
 NewTV爱情剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 CHC影迷电影,http://wan1.tangwudi.cc:47859/udp/239.94.1.174:5140
+CHC影迷电影,http://api.kkhk.itv888.vip:8080/streams/narc71xn3d/index.m3u8
 CHC影迷电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.175:5140
 CHC影迷电影,http://171.38.107.34:8282/tsfile/live/1067_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
 CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
 CHC影迷电影,http://171.213.166.136:9090/rtp/239.94.1.174:5140
 CHC家庭影院,http://wan1.tangwudi.cc:47859/udp/239.94.1.173:5140
+CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
 CHC家庭影院,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.173:5140
 CHC家庭影院,http://113.26.251.182:8009/hls/82/index.m3u8
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://120.238.5.44:1698/hls/69/index.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 CHC动作电影,http://wan1.tangwudi.cc:47859/udp/239.94.1.175:5140
+CHC动作电影,http://api.kkhk.itv888.vip:8080/streams/tbqrnwqrilg/index.m3u8
 CHC动作电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.174:5140
 CHC动作电影,http://120.198.84.146:9901/tsfile/live/1018_1.m3u8
 CHC动作电影,http://lysj.aylzline.top:8899/rtp/225.1.2.215:11428
@@ -1349,6 +1356,8 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 百事通4K电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.169:5140
 百事通4K电影,http://223.167.125.208:4022/rtp/233.18.204.169:5140
 峨眉电影4K,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
+北京淘电影,http://api.kkhk.itv888.vip:8080/streams/6403327f992/index.m3u8
+北京重温经典,http://api.kkhk.itv888.vip:8080/streams/50f74c763e0/index.m3u8
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
 天映,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20116#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20117
 天映,http://pull-vivek.speedws.com/live/aaatypd.flv
