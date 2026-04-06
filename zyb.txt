@@ -495,26 +495,17 @@ cdtv6,http://183.220.20.17:4321/rtp/239.10.0.16:5140
 
 🎵综艺,#genre#
 八大娱乐,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y7aDNpAfjzaMAqe_OTcTj_JEmkQ2hnIWzZTYOHOyNIgzFL9azndzyljm8AUG4pul_bDMDeQWJTXZ191drTc3T3MKWEg-9G-IXLsktixPMciYZfBr6KZ8j9fZTcAjOtIs6GipyQqjPWTyMqCFz9kS7BVQEdnb-6mx82_w7pbv3wblz9M4uDkSTjJUefdcoU3-hw.m3u8?u=1756878715
-八大娱乐,https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=badaentertain
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
 民視綜藝,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20217
 豬哥亮歌廳秀,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20317
 ELTA娱乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20303
-ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
 娱乐扒叔轮播,http://8.155.43.98:35455/douyu/9624581
 脱口秀大会专场,https://live.ottiptv.cc/huya/11352875
 韩流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63
 娱乐百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
 综艺大赢家,http://iptv.4666888.xyz/iptv2A.php?id=65
 综艺大赢家,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20465
-综艺节目,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?tv.sohu.blog
 热门综艺,http://wan1.tangwudi.cc:47859/udp/239.94.1.35:5140
-淘娱乐,http://123.118.59.252:8686/rtp/239.3.1.100:8001$北京联通11
-淘娱乐,http://115.171.80.124:1688/rtp/225.1.8.61:8002$北京电信11
-淘娱乐,http://115.171.216.58:4000/rtp/225.1.8.61:8002$北京电信21
-淘娱乐,http://221.220.132.211:8012/rtp/239.3.1.100:8001$北京联通21
-淘娱乐,http://115.171.216.84:4000/rtp/225.1.8.61:8002$北京电信31
-淘娱乐,http://114.254.83.46:8888/rtp/239.3.1.100:8001$北京联通31
 综艺天地轮播台,http://111.56.121.176/050000001888/5000000188800000188/1.m3u8?fmt=ts2hls
 综艺天地轮播台,http://111.56.120.93/050000001888/5000000188800000188/1.m3u8?fmt=ts2hls
 
@@ -1264,6 +1255,12 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 搞笑剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
 大家剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
 爱情剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
+动作电影轮播台,http://111.56.120.93/050000001888/5000000188800000190/1.m3u8?fmt=ts2hls
+动作电影轮播台,http://111.56.121.176/050000001888/5000000188800000190/1.m3u8?fmt=ts2hls
+古装神剧轮播台,http://111.56.120.93/050000001888/5000000188800000186/1.m3u8?fmt=ts2hls
+古装神剧轮播台,http://111.56.121.176/050000001888/5000000188800000186/1.m3u8?fmt=ts2hls
+情感大剧轮播台,http://111.56.120.93/050000001888/5000000188800000189/1.m3u8?fmt=ts2hls
+情感大剧轮播台,http://111.56.121.176/050000001888/5000000188800000189/1.m3u8?fmt=ts2hls
 NewTV精品萌宠,http://gxyd.484947.xyz/PLTV/77777777/224/3221225979/index.m3u8?servicetype=3&IASHttpSessionId=OTT 
 NewTV黑莓电影,http://gxyd.484947.xyz/PLTV/77777777/224/3221225740/index.m3u8?servicetype=3&IASHttpSessionId=OTT 
 NewTV黑莓动画,http://gxyd.484947.xyz/PLTV/77777777/224/3221225710/index.m3u8?servicetype=3&IASHttpSessionId=OTT 
@@ -1298,12 +1295,6 @@ iHOT爱玩具,http://wan1.tangwudi.cc:47859/udp/239.94.1.140:5140
 iHOT爱科幻,http://wan1.tangwudi.cc:47859/udp/239.94.1.131:5140
 iHOT爱谍战,http://wan1.tangwudi.cc:47859/udp/239.94.1.134:5140
 iHOT爱院线,http://wan1.tangwudi.cc:47859/udp/239.94.1.132:5140
-动作电影轮播台,http://111.56.120.93/050000001888/5000000188800000190/1.m3u8?fmt=ts2hls
-动作电影轮播台,http://111.56.121.176/050000001888/5000000188800000190/1.m3u8?fmt=ts2hls
-古装神剧轮播台,http://111.56.120.93/050000001888/5000000188800000186/1.m3u8?fmt=ts2hls
-古装神剧轮播台,http://111.56.121.176/050000001888/5000000188800000186/1.m3u8?fmt=ts2hls
-情感大剧轮播台,http://111.56.120.93/050000001888/5000000188800000189/1.m3u8?fmt=ts2hls
-情感大剧轮播台,http://111.56.121.176/050000001888/5000000188800000189/1.m3u8?fmt=ts2hls
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华电影,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20240
@@ -1354,8 +1345,6 @@ iHOT爱院线,http://wan1.tangwudi.cc:47859/udp/239.94.1.132:5140
 华数城市剧场,http://123.118.59.252:8686/rtp/239.3.1.67:4120$北京联通11
 华数城市剧场,http://115.171.80.124:1688/rtp/225.1.8.227:4120$北京电信11
 华数少儿动画,http://171.38.107.34:8282/tsfile/live/1089_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-北京淘电影,http://api.kkhk.itv888.vip:8080/streams/6403327f992/index.m3u8
-北京重温经典,http://api.kkhk.itv888.vip:8080/streams/50f74c763e0/index.m3u8
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
 天映,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20116#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20117
 天映,http://pull-vivek.speedws.com/live/aaatypd.flv
