@@ -30,12 +30,6 @@
 BesTV4K纪实,http://wan1.tangwudi.cc:47859/udp/239.94.1.69:5140
 看天下精选,http://wan1.tangwudi.cc:47859/udp/239.94.1.68:5140
 精彩纪实轮播台,http://111.56.121.176/050000001888/5000000188800000187/1.m3u8?fmt=ts2hls
-求索生活,http://111.56.90.5/000000000000/6000000002000003382/1.m3u8
-求索科学,http://111.56.90.5/000000000000/6000000002000032344/1.m3u8
-求索记录,http://cckj.pw:8899/rtp/239.10.0.221:5140
-求索记录,http://www.cckj.pw:8899/rtp/239.10.0.221:5140
-求索记录,http://120.198.84.146:9901/tsfile/live/1097_1.m3u8
-求索动物,http://111.56.90.5/000000000000/6000000002000010046/1.m3u8
 北京纪实科教,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225744/1.m3u8?fmt=ts2hls
 金鹰纪实,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225726/1.m3u8?fmt=ts2hls
 新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
@@ -53,10 +47,10 @@ CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
 CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing-1.m3u8
 CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing-5.m3u8
 CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV8K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
-CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
-CCTV8K,http://rihou.cc:555/tv/CCTV8K
+CCTV8K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k$CCTV8-1
+CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub$CCTV8-2
+CCTV8K,http://107.150.60.122/live/cctv8k.m3u8$CCTV8-3
+CCTV8K,http://rihou.cc:555/tv/CCTV8K$CCTV8-4
 CCTV1,http://111.56.121.176:80/050000001888/5000000188800000011/index.m3u8$综合
 CCTV1,http://107.150.60.122/live/cctv1hd.m3u8$综合
 CCTV1,http://yhms.aylzline.top:8899/rtp/225.1.2.47:10276$综合
