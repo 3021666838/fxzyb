@@ -7,11 +7,11 @@
 🎶点歌台频道,https://live.iill.top/douyu/85894
 美女T台秀,http://115.190.252.60:23456/huya.php?id=18501378
 4K视频[刷新就是新内容],http://xjj1.716888.xyz/fenlei/4k/4k.php
-天翼高清4K,http://wan1.tangwudi.cc:47859/udp/239.94.2.41:5140
 环球直播,https://live.iill.top/douyu/9036111
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
 🏀体育,#genre#
+天翼高清4K,http://wan1.tangwudi.cc:47859/udp/239.94.2.41:5140
 新视觉,http://120.238.5.44:1698/hls/81/index.m3u8
 咪咕4K,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
 咪咕4K,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8
@@ -31,10 +31,10 @@
 ☘️纪实,#genre#
 BesTV4K纪实,http://wan1.tangwudi.cc:47859/udp/239.94.1.69:5140
 看天下精选,http://wan1.tangwudi.cc:47859/udp/239.94.1.68:5140
-精彩纪实轮播台,http://111.56.121.176/050000001888/5000000188800000187/1.m3u8?fmt=ts2hls
-北京纪实科教,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225744/1.m3u8?fmt=ts2hls
 金鹰纪实,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225726/1.m3u8?fmt=ts2hls
 新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+精彩纪实轮播台,http://111.56.121.176/050000001888/5000000188800000187/1.m3u8?fmt=ts2hls
+北京纪实科教,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225744/1.m3u8?fmt=ts2hls
 
 
 第一直播,#group#
@@ -146,7 +146,6 @@ CCTV16,http://107.150.60.122/live/cctv16hd.m3u8$奥林匹克
 CCTV16,http://111.56.121.176:80/050000001888/5000000188800000097/index.m3u8$奥林匹克
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$奥林匹克
 CCTV16,http://221.7.49.226:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$奥林匹克
-CCTV16,http://iptv.4666888.xyz/iptv2A.php?id=32$奥林匹克
 CCTV17,http://111.56.121.176:80/050000001888/5000000188800000084/index.m3u8$农业农村
 CCTV17,http://107.150.60.122/live/cctv17hd.m3u8$农业农村
 CCTV17,http://yhms.aylzline.top:8899/rtp/225.1.2.53:10312$农业农村
@@ -247,8 +246,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 中学生,http://111.56.121.176/050000001888/5000000188800000167/1.m3u8?fmt=ts2hls
 中学生,http://111.56.120.93/050000001888/5000000188800000167/1.m3u8?fmt=ts2hls
 亲子趣学4k,http://wan1.tangwudi.cc:47859/udp/239.94.1.156:5140
-📡卫视,#genre#
 
+
+📡卫视,#genre#
 北京卫视4K,http://wan1.tangwudi.cc:47859/udp/239.94.0.111:5140
 北京卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226322/1.m3u8?fmt=ts2hls
 北京卫视4K,http://223.167.125.208:4022/udp/233.18.204.209:5140
@@ -503,21 +503,36 @@ cdht tv,http://122.5.53.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/cdgxdstgq_
 ELTA娱乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20303
 娱乐扒叔轮播,http://8.155.43.98:35455/douyu/9624581
 脱口秀大会专场,https://live.ottiptv.cc/huya/11352875
-韩流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63
 娱乐百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
 综艺大赢家,http://iptv.4666888.xyz/iptv2A.php?id=65
-综艺大赢家,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20465
-热门综艺,http://wan1.tangwudi.cc:47859/udp/239.94.1.35:5140
 综艺天地轮播台,http://111.56.121.176/050000001888/5000000188800000188/1.m3u8?fmt=ts2hls
 综艺天地轮播台,http://111.56.120.93/050000001888/5000000188800000188/1.m3u8?fmt=ts2hls
 
 
 
 🪁儿童,#genre#
+BesTV4K动画,http://wan1.tangwudi.cc:47859/udp/239.94.1.70:5140
+BesTV4K动画,http://223.167.125.208:4022/udp/233.18.204.171:5140
+BesTV4K动画,http://woshiysy1.synology.me:4999/rtp/233.18.204.171:5140
+BesTV4K动画,http://wsc2007123.myds.me:30100/rtp/233.18.204.171:5140
+BesTV4K动画,http://www.yyf1991.top:9999/rtp/233.18.204.171:5140
+BesTV4K动画,http://223.167.125.208:4022/rtp/233.18.204.171:5140
+BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
+动漫秀场,http://111.56.121.176/000000001000/5000000011000031113/1.m3u8?fmt=ts2hls
+动漫秀场,http://wan1.tangwudi.cc:47859/udp/239.94.1.171:5140
+动漫秀场,http://lihetl.com:9527/rtp/232.0.0.140:9304
+动漫秀场,http://101.wifi98.com:9001/udp/232.0.0.128:1234
+动漫秀场,http://38.75.136.137:98/gslb/dsdqpub/dmxchd.m3u8?auth=testpub
+动漫秀场,http://czkeji.vip:9000/rtp/239.252.219.59:5140
 内蒙古少儿,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/1.m3u8?fmt=ts2hls
 内蒙儿童秀场,http://111.56.121.176:80/050000001888/5000000188800000185/index.m3u8
+儿童秀场轮播台,http://111.56.120.93/050000001888/5000000188800000185/1.m3u8?fmt=ts2hls
+儿童秀场轮播台,http://111.56.121.176/050000001888/5000000188800000185/1.m3u8?fmt=ts2hls
+金鹰卡通,http://fuxin.yunjifei.top:999/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://101.wifi98.com:9001/udp/232.0.0.90:1234
 金鹰卡通,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225686/1.m3u8?fmt=ts2hls
 金鹰卡通,http://39.165.39.49:19901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=0&authid=0
+优漫卡通,http://fuxin.yunjifei.top:999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://zczb.aylzline.top:8899/rtp/225.1.2.83:10492
 CCTV14,http://lysj.aylzline.top:8899/rtp/225.1.2.83:10492
 CCTV14,http://111.56.121.176:80/050000001888/5000000188800000008/index.m3u8
@@ -531,31 +546,13 @@ CCTV14,http://39.165.39.49:19901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&a
 嘉佳卡通,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225968/1.m3u8?fmt=ts2hls
 嘉佳卡通,http://39.165.39.49:19901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=0&authid=0
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-1.php
-动漫秀场,http://111.56.121.176/000000001000/5000000011000031113/1.m3u8?fmt=ts2hls
-动漫秀场,http://wan1.tangwudi.cc:47859/udp/239.94.1.171:5140
-动漫秀场,http://lihetl.com:9527/rtp/232.0.0.140:9304
-动漫秀场,http://101.wifi98.com:9001/udp/232.0.0.128:1234
-动漫秀场,http://38.75.136.137:98/gslb/dsdqpub/dmxchd.m3u8?auth=testpub
-动漫秀场,http://czkeji.vip:9000/rtp/239.252.219.59:5140
-新动漫,http://219.156.90.199:4022/rtp/225.1.4.212:1265$河南联通11
-新动漫,http://220.176.218.198:9000/rtp/239.252.220.132:5140$江西电信11
 梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
 梦工场动漫,https://iptv.xmtv.cc.cd/?id=40
-靖洋卡通台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20295
 DuckTV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
-Astro酷哒哒,https://o11.163189.xyz/stream/live/test/
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8
 广东少儿,http://171.38.107.34:8282/tsfile/live/1009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-NICK,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20421
-儿童秀场轮播台,http://111.56.120.93/050000001888/5000000188800000185/1.m3u8?fmt=ts2hls
-儿童秀场轮播台,http://111.56.121.176/050000001888/5000000188800000185/1.m3u8?fmt=ts2hls
-BesTV4K动画,http://wan1.tangwudi.cc:47859/udp/239.94.1.70:5140
-BesTV4K动画,http://223.167.125.208:4022/udp/233.18.204.171:5140
-BesTV4K动画,http://woshiysy1.synology.me:4999/rtp/233.18.204.171:5140
-BesTV4K动画,http://wsc2007123.myds.me:30100/rtp/233.18.204.171:5140
-BesTV4K动画,http://www.yyf1991.top:9999/rtp/233.18.204.171:5140
-BesTV4K动画,http://223.167.125.208:4022/rtp/233.18.204.171:5140
-BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
+
+
 
 第二直播,#group#
 内蒙古,#genre#
@@ -584,27 +581,27 @@ BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 赤峰经济服务,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225813/1.m3u8?fmt=ts2hls
 赤峰影视娱乐,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225819/1.m3u8?fmt=ts2hls
 伊金霍洛旗综合频道,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225868/1.m3u8?fmt=ts2hls
-准格尔旗综合频道,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225808/1.m3u8?fmt=ts2hls$『全网』
-达拉特旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226307/1.m3u8?fmt=ts2hls$『全网』
-鄂托克旗综合,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226319/1.m3u8?fmt=ts2hls$『全网』
-杭锦旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226297/1.m3u8?fmt=ts2hls$『全网』
-苏尼特右旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225839/1.m3u8?fmt=ts2hls$『全网』
-达茂旗电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225884/1.m3u8?fmt=ts2hls$『全网』
-额济纳旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225787/1.m3u8?fmt=ts2hls$『全网』
-杭锦后旗电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225793/1.m3u8?fmt=ts2hls$『全网』
-察哈尔右翼后旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226295/1.m3u8?fmt=ts2hls$『全网』
-苏尼特左旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225797/1.m3u8?fmt=ts2hls$『全网』
-突泉县广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225798/1.m3u8?fmt=ts2hls$『全网』
-乌拉特中旗电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225804/1.m3u8?fmt=ts2hls$『全网』
-西乌珠穆沁旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225840/1.m3u8?fmt=ts2hls$『全网』
-科尔沁右翼中旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225881/1.m3u8?fmt=ts2hls$『全网』
-乌拉特前旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225796/1.m3u8?fmt=ts2hls$『全网』
-库伦旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225925/1.m3u8?fmt=ts2hls$『全网』
-翁牛特旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225807/1.m3u8?fmt=ts2hls$『全网』
-阿尔山市广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225926/1.m3u8?fmt=ts2hls$『全网』
-察哈尔右翼中旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225869/1.m3u8?fmt=ts2hls$『全网』
-阿荣旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226341/1.m3u8?fmt=ts2hls$『全网』
-丰镇电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225871/1.m3u8?fmt=ts2hls$『全网』
+准格尔旗综合频道,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225808/1.m3u8?fmt=ts2hls
+达拉特旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226307/1.m3u8?fmt=ts2hls
+鄂托克旗综合,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226319/1.m3u8?fmt=ts2hls
+杭锦旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226297/1.m3u8?fmt=ts2hls
+苏尼特右旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225839/1.m3u8?fmt=ts2hls
+达茂旗电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225884/1.m3u8?fmt=ts2hls
+额济纳旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225787/1.m3u8?fmt=ts2hls
+杭锦后旗电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225793/1.m3u8?fmt=ts2hls
+察哈尔右翼后旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226295/1.m3u8?fmt=ts2hls
+苏尼特左旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225797/1.m3u8?fmt=ts2hls
+突泉县广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225798/1.m3u8?fmt=ts2hls
+乌拉特中旗电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225804/1.m3u8?fmt=ts2hls
+西乌珠穆沁旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225840/1.m3u8?fmt=ts2hls
+科尔沁右翼中旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225881/1.m3u8?fmt=ts2hls
+乌拉特前旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225796/1.m3u8?fmt=ts2hls
+库伦旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225925/1.m3u8?fmt=ts2hls
+翁牛特旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225807/1.m3u8?fmt=ts2hls
+阿尔山市广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225926/1.m3u8?fmt=ts2hls
+察哈尔右翼中旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225869/1.m3u8?fmt=ts2hls
+阿荣旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226341/1.m3u8?fmt=ts2hls
+丰镇电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225871/1.m3u8?fmt=ts2hls
 包头新闻综合,http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
 兴安新闻综合,http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
 通辽新闻综合,http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
@@ -617,20 +614,29 @@ BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 锡林郭勒盟一套,http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
 
 📡其他,#genre#
-辽宁影视,http://lihetl.com:9527/rtp/232.0.0.97:8534
+辽宁影视,http://fuxin.yunjifei.top:999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁影视,http://fuxin.yunjifei.top:999/tsfile/live/1001_1.m3u8?key=txiptv
-辽宁都市,http://lihetl.com:9527/rtp/232.0.0.42:8856
+辽宁影视,http://lihetl.com:9527/rtp/232.0.0.97:8534
+辽宁都市,http://fuxin.yunjifei.top:999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁都市,http://fuxin.yunjifei.top:999/tsfile/live/1000_1.m3u8?key=txiptv
-辽宁生活,http://lihetl.com:9527/rtp/232.0.0.212:9242
+辽宁都市,http://lihetl.com:9527/rtp/232.0.0.42:8856
+辽宁生活,http://fuxin.yunjifei.top:999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁生活,http://fuxin.yunjifei.top:999/tsfile/live/1004_1.m3u8?key=txiptv
-辽宁教育青少,http://lihetl.com:9527/rtp/232.0.0.230:9356
+辽宁生活,http://lihetl.com:9527/rtp/232.0.0.212:9242
+辽宁教育青少,http://fuxin.yunjifei.top:999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁教育青少,http://fuxin.yunjifei.top:999/tsfile/live/1005_1.m3u8?key=txiptv
-辽宁北方,http://lihetl.com:9527/rtp/232.0.0.211:9240
+辽宁教育青少,http://lihetl.com:9527/rtp/232.0.0.230:9356
+辽宁北方,http://fuxin.yunjifei.top:999/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁北方,http://fuxin.yunjifei.top:999/tsfile/live/1006_1.m3u8?key=txiptv
-辽宁公共,http://lihetl.com:9527/rtp/232.0.0.156:9322
+辽宁北方,http://lihetl.com:9527/rtp/232.0.0.211:9240
+辽宁公共,http://fuxin.yunjifei.top:999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁公共,http://fuxin.yunjifei.top:999/tsfile/live/1007_1.m3u8?key=txiptv
+辽宁公共,http://lihetl.com:9527/rtp/232.0.0.156:9322
+辽宁经济,http://fuxin.yunjifei.top:999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁经济,http://lihetl.com:9527/rtp/232.0.0.155:9320
+辽宁体育,http://fuxin.yunjifei.top:999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁体育,http://lihetl.com:9527/rtp/232.0.0.66:8820
+辽宁移动电视,http://fuxin.yunjifei.top:999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 抚顺综合,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.253:1234
 抚顺教育,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.254:1234
 盘锦公共,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.183:1234
@@ -669,18 +675,6 @@ BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 天津影视,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.149:5002
 天津都市,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.128:5002
 天津教育,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.129:5002
-广东珠江,http://107.150.60.122/live/gdzj.m3u8
-广东体育,http://107.150.60.122/live/gdty.m3u8
-广东新闻,http://107.150.60.122/live/gdxw.m3u8
-广西影视,http://107.150.60.122/live/gxys.m3u8
-广西综艺旅游,http://107.150.60.122/live/gxzy.m3u8
-广西都市,http://107.150.60.122/live/gxds.m3u8
-广西新闻,http://107.150.60.122/live/gxxw.m3u8
-广西国际,http://107.150.60.122/live/gxgj.m3u8
-新疆汉语影视,http://107.150.60.122/live/xjtv6.m3u8
-新疆汉语体育健康,http://107.150.60.122/live/xjtv7.m3u8
-江西少儿家庭,http://107.150.60.122/live/jxtv6.m3u8
-江西新闻频道,http://107.150.60.122/live/jxtv7.m3u8
 海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
 海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
 海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
@@ -752,7 +746,6 @@ BesTV4K动画,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 🌊港台,#genre#
 环球,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-欧洲华文电视台,http://oh.eztv.vip/live/eztv1.m3u8
 娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 娱乐新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20107#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20069
 娱乐新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20073
@@ -868,6 +861,7 @@ TVB星河,http://r.jdshipin.com/sXuuD
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
 TVB星河,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20101#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20102
 TVB星河,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxh
+TVB星河,https://php.jdshipin.com:2096/TVOD/iptv.php?id=xinghe
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
 TVB星河,https://php.jdshipin.com:2096/TVOD/iptv.php?id=xinghe
@@ -918,6 +912,7 @@ myTV SUPErfootball3,http://tl.061833.xyz/tl/null-4
 myTV SUPErfootball3,http://tl.061833.xyz/tl/null-13 
 myTV SUPErfootball3,http://rihou.cc:555/tv/[Uk]无线亚剧
 myTV SUPErfootball3,http://67.220.67.246:2347/livehttpplay?channel_id=13023
+myTV SUPErfootball4,http://iptv.4666888.xyz/iptv2A.php?id=32
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 HOY77,http://115.44.143.127:18180/TV00000000000000000036@HHZT
 HOY77,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20078
@@ -1192,6 +1187,7 @@ BesTV4K电影,http://223.167.125.208:4022/rtp/233.18.204.169:5140
 峨眉电影4K,https://itv.tvbj.dpdns.org/proxy.php/live/emdy4k_8000.m3u8
 绚影4K,http://wan1.tangwudi.cc:47859/udp/239.94.1.150:5140
 CHC影迷电影,http://wan1.tangwudi.cc:47859/udp/239.94.1.174:5140
+CHC影迷电影,http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://api.kkhk.itv888.vip:8080/streams/narc71xn3d/index.m3u8
 CHC影迷电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.175:5140
 CHC影迷电影,http://171.38.107.34:8282/tsfile/live/1067_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
@@ -1199,6 +1195,7 @@ CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
 CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
 CHC影迷电影,http://171.213.166.136:9090/rtp/239.94.1.174:5140
 CHC家庭影院,http://wan1.tangwudi.cc:47859/udp/239.94.1.173:5140
+CHC家庭影院,http://fuxin.yunjifei.top:999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
 CHC家庭影院,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.173:5140
 CHC家庭影院,http://113.26.251.182:8009/hls/82/index.m3u8
@@ -1206,6 +1203,7 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://120.238.5.44:1698/hls/69/index.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 CHC动作电影,http://wan1.tangwudi.cc:47859/udp/239.94.1.175:5140
+CHC动作电影,http://fuxin.yunjifei.top:999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://api.kkhk.itv888.vip:8080/streams/tbqrnwqrilg/index.m3u8
 CHC动作电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.174:5140
 CHC动作电影,http://120.198.84.146:9901/tsfile/live/1018_1.m3u8
@@ -1350,6 +1348,7 @@ iHOT爱院线,http://wan1.tangwudi.cc:47859/udp/239.94.1.132:5140
 龙祥时代,http://171.38.107.34:8282/tsfile/live/1081_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 风云恐怖电影,http://iptv.4666888.xyz/iptv2A.php?id=59
 好萊塢電影台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20248
+中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=61
 采昌影劇,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20316
 壹电影,http://rihou.cc:555/tv/[Uk]闽壹电影
 成龙电影,http://107.150.60.122/live/lbcl.m3u8
