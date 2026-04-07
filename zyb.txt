@@ -806,7 +806,7 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 凤凰卫视香港,http://221.194.141.41:2380/duanjucntv.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228530/1.m3u8
 凤凰卫视香港,http://jump.fantanggame.com:19981/stream/channelid/1744673927?profile=pass
 凤凰卫视香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
-凤凰卫视香港,http://r.jdshipin.com/yDoTN$1080p
+凤凰卫视香港,http://r.jdshipin.com/yDoTN
 凤凰卫视香港,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
 凤凰卫视香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰卫视香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
