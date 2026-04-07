@@ -762,6 +762,7 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 娱乐新闻,http://pull-vivek.speedws.com/live/aaahjfc.flv
 无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
 无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
+无线新闻,http://115.44.143.127:18180/TV00000000000000000034@HHZT
 无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
 无线新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20107#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20069
 无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601
