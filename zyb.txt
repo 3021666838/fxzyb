@@ -493,6 +493,8 @@ cdtv6,http://wan1.tangwudi.cc:47859/udp/239.94.0.159:5140
 cdtv6,http://nas.201606.xyz:4022/rtp/239.10.0.16:5140
 cdtv6,http://183.220.107.138:4022/rtp/239.10.0.16:5140
 cdtv6,http://183.220.20.17:4321/rtp/239.10.0.16:5140
+cdtv8,http://122.5.53.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/mrgw_4000.m3u8
+cdht tv,http://122.5.53.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/cdgxdstgq_2000.m3u8
 
 
 🎵综艺,#genre#
@@ -857,6 +859,10 @@ TVB明珠,http://120.198.84.146:9901/tsfile/live/1054_1.m3u8
 TVB明珠,http://pull-vivek.speedws.com/live/aaamingzhu.flv
 TVB明珠,http://120.238.5.44:1698/hls/84/index.m3u8
 TVB明珠,https://iptv.xmtv.cc.cd/?id=29
+TVB星河,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU7GKgY5vclV14DebjdctN_WiD7JcECWMjvMy6w5PSNpQgYXNSgoELjLZXIFnELeV-dp_KA09iMdNNq4rOQ5vni_WyKkZ1weXo7Kdj_1RHmDUagSdgnc9K3fzFdEM5ZK9OjxqowuUOCfORT0u5VAdsP_9l667pW4lQKKknn5im2N-vPtRpcb9mHpwSfY8RixGvc46pDJr_fexVQFfrQmoTvg.m3u8?u=1756878715
+TVB星河,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU7GKgY5vclV14DebjdctN_WiD7JcECWMjvMy6w5PSNpQgYXNSgoELjLZXIFnELeV-dp_KA09iMdNNq4rOQ5vni_WyKkZ1weXo7Kdj_1RHmDUagSdgnc9K3fzFdEM5ZK9OjxqowuUOCfORT0u5VAdsP_9l667pW4lQKKknn5im2N-vPtRpcb9mHpwSfY8RixGvc46pDJr_fexVQFfrQmoTvg.m3u8?u=1756878715
+TVB星河,http://r.jdshipin.com/sXuuD
+TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
 TVB星河,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20101#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20102
 TVB星河,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxh
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
@@ -1215,6 +1221,7 @@ BesTV4K电影,http://223.167.125.208:4022/rtp/233.18.204.169:5140
 4K乐享超清,http://wan1.tangwudi.cc:47859/udp/239.94.1.162:5140
 爱上4K,http://lihetl.com:9527/rtp/232.0.0.104:8632
 爱上4K,http://101.wifi98.com:9001/udp/232.0.0.187:1234
+峨眉电影4K,http://122.5.53.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 峨眉电影4K,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
 峨眉电影4K,https://itv.tvbj.dpdns.org/proxy.php/live/emdy4k_8000.m3u8
 绚影4K,http://wan1.tangwudi.cc:47859/udp/239.94.1.150:5140
@@ -1349,6 +1356,7 @@ iHOT爱院线,http://wan1.tangwudi.cc:47859/udp/239.94.1.132:5140
 华数城市剧场,http://115.171.80.124:1688/rtp/225.1.8.227:4120$北京电信11
 华数少儿动画,http://171.38.107.34:8282/tsfile/live/1089_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
+重温经典,http://122.5.53.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
 天映,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20116#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20117
 天映,http://pull-vivek.speedws.com/live/aaatypd.flv
 天映,https://o11.163189.xyz/stream/live/typd/
