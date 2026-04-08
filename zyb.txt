@@ -798,10 +798,7 @@ DuckTV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
 遂昌综合频道,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 松阳综合频道,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8 
-广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
-广东珠江,http://r.jdshipin.com/sE5vO
-广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
-广东公共,http://171.38.107.34:8282/tsfile/live/1007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+
 
 
 
@@ -1346,7 +1343,6 @@ POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
 古装神剧轮播台,http://111.56.121.176/050000001888/5000000188800000186/1.m3u8?fmt=ts2hls
 情感大剧轮播台,http://111.56.120.93/050000001888/5000000188800000189/1.m3u8?fmt=ts2hls
 情感大剧轮播台,http://111.56.121.176/050000001888/5000000188800000189/1.m3u8?fmt=ts2hls
-
 iHOT爱喜剧,http://wan1.tangwudi.cc:47859/udp/239.94.1.129:5140
 iHOT爱喜剧,http://wan1.tangwudi.cc:47859/udp/239.94.2.71:5140
 iHOT爱奇谈,http://wan1.tangwudi.cc:47859/udp/239.94.1.130:5140
@@ -1386,23 +1382,29 @@ iHOT爱院线,http://wan1.tangwudi.cc:47859/udp/239.94.1.132:5140
 龙华洋片,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20242
 龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
 龙华卡通,https://cdn8.163189.xyz/163189/lhkt
+华数星影,http://002.9kds.com:9901/tsfile/live/1026_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 华数星影,http://115.171.80.124:1688/rtp/225.1.8.254:4120$北京电信11
 华数星影,http://115.171.216.58:4000/rtp/225.1.8.254:4120$北京电信21
 华数星影,http://115.171.216.84:4000/rtp/225.1.8.254:4120$北京电信31
+华数动作影院,http://002.9kds.com:9901/tsfile/live/1024_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 华数动作影院,http://115.171.80.124:1688/rtp/225.1.8.252:4120$北京电信11
 华数动作影院,http://115.171.216.58:4000/rtp/225.1.8.252:4120$北京电信21
 华数动作影院,http://221.220.132.211:8012/rtp/239.3.1.92:4120$北京联通21
+华数喜剧影院,http://002.9kds.com:9901/tsfile/live/1023_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 华数喜剧影院,http://115.171.80.124:1688/rtp/225.1.8.251:4120$北京电信11
 华数喜剧影院,http://115.171.216.58:4000/rtp/225.1.8.251:4120$北京电信21
 华数喜剧影院,http://115.171.216.84:4000/rtp/225.1.8.251:4120$北京电信31
+华数家庭影院,http://002.9kds.com:9901/tsfile/live/1025_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 华数家庭影院,http://115.171.80.124:1688/rtp/225.1.8.253:4120$北京电信11
 华数家庭影院,http://115.171.216.58:4000/rtp/225.1.8.253:4120$北京电信21
 华数家庭影院,http://115.171.216.84:4000/rtp/225.1.8.253:4120$北京电信31
 华数经典电影,http://wan1.tangwudi.cc:47859/udp/239.94.1.21:5140
 华数精选电影,http://lihetl.com:9527/rtp/232.0.0.102:8888
 华数精选电影,http://101.wifi98.com:9001/udp/232.0.0.102:1234
+华数热播剧场,http://002.9kds.com:9901/tsfile/live/1016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 华数热播剧场,http://wan1.tangwudi.cc:47859/udp/239.94.1.25:5140
 华数热播剧场,http://120.198.84.146:9901/tsfile/live/1016_1.m3u8
+华数碟战剧场,http://002.9kds.com:9901/tsfile/live/1019_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 华数碟战剧场,http://wan1.tangwudi.cc:47859/udp/239.94.1.28:5140
 华数碟战剧场,http://lihetl.com:9527/rtp/232.0.0.53:8754
 华数碟战剧场,http://220.176.218.198:9000/rtp/239.252.220.145:5140$江西电信11
@@ -1473,6 +1475,7 @@ Y+剧场,http://hms3659nc3747353871.live.aikan.miguvideo.com/PLTV/88888888/224/3
 爱情喜剧,http://124.236.93.22:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.206/PLTV/4/224/3221228714/index.m3u8
 精品大剧,http://124.236.93.22:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.62/PLTV/4/224/3221228699/index.m3u8
 中国功夫,http://124.236.93.22:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.207/PLTV/4/224/3221228708/index.m3u8
+武侠剧场,http://002.9kds.com:9901/tsfile/live/1027_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 深圳电视剧,http://nn.7x9d.cn/深圳最新.php?id=szdsj
 内蒙古装巨制,http://111.56.121.176:80/050000001888/5000000188800000186/index.m3u8
 内蒙情感大剧,http://111.56.121.176:80/050000001888/5000000188800000189/index.m3u8
