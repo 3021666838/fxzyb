@@ -494,8 +494,6 @@ cdtv6,http://wan1.tangwudi.cc:47859/udp/239.94.0.159:5140
 cdtv6,http://nas.201606.xyz:4022/rtp/239.10.0.16:5140
 cdtv6,http://183.220.107.138:4022/rtp/239.10.0.16:5140
 cdtv6,http://183.220.20.17:4321/rtp/239.10.0.16:5140
-cdtv8,http://122.5.53.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/mrgw_4000.m3u8
-cdht tv,http://122.5.53.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/cdgxdstgq_2000.m3u8
 
 
 🎵综艺,#genre#
@@ -558,7 +556,7 @@ DuckTV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
 
 
 第二直播,#group#
-内蒙古,#genre#
+📡内蒙古,#genre#
 内蒙古文体娱乐,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225877/1.m3u8?fmt=ts2hls
 内蒙古经济生活,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225879/1.m3u8?fmt=ts2hls
 内蒙古少儿,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/1.m3u8?fmt=ts2hls
@@ -616,11 +614,11 @@ DuckTV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
 阿拉善新闻综合,http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
 锡林郭勒盟一套,http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
 
-江苏,#genre#
+📡江苏,#genre#
 江苏城市,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.241/PLTV/4/224/3221225929/index.m3u8
-江苏公共,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.241/PLTV/4/224/3221225925/index.m3u8
+江苏公共新闻,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.241/PLTV/4/224/3221225925/index.m3u8
 江苏教育,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.241/PLTV/4/224/3221225923/index.m3u8
-江苏体育,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.226/PLTV/4/224/3221225935/index.m3u8
+江苏体育休闲,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.226/PLTV/4/224/3221225935/index.m3u8
 江苏影视,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.234/PLTV/4/224/3221225937/index.m3u8
 江苏综艺,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.234/PLTV/4/224/3221225931/index.m3u8
 南京新闻,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.242/PLTV/4/224/3221227213/index.m3u8
