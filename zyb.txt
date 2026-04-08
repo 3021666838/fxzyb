@@ -2,24 +2,22 @@
 
 ☘️视觉,#genre#
 纯享4K,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.231/PLTV/3/224/3221227506/index.m3u8
-🎶4KR,http://dx.joygala.cn:8118/rtp/239.49.8.82:8000
-🎶4KR,http://117.63.157.175:8888/rtp/239.49.8.82:8000
-🎶4KR,http://hl.nijingjing.site:8888/rtp/239.49.8.82:8000
-🎶点歌台频道,https://live.iill.top/douyu/85894
-美女T台秀,http://115.190.252.60:23456/huya.php?id=18501378
+点歌台频道,https://live.iill.top/douyu/85894
 4K视频[刷新就是新内容],http://xjj1.716888.xyz/fenlei/4k/4k.php
+乐游,http://111.56.121.176/000000001000/5000000011000031112/1.m3u8?fmt=ts2hls
+亲子趣学,http://wan1.tangwudi.cc:47859/udp/239.94.1.156:5140
+生活时尚,http://111.56.121.176/000000001000/5000000002000019634/1.m3u8?fmt=ts2hls
 环球直播,https://live.iill.top/douyu/9036111
-熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
 🏀体育,#genre#
-天翼高清4K,http://wan1.tangwudi.cc:47859/udp/239.94.2.41:5140
+天翼高清,http://wan1.tangwudi.cc:47859/udp/239.94.2.41:5140
 新视觉,http://120.238.5.44:1698/hls/81/index.m3u8
 咪咕4K,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
 咪咕4K,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8
-咪世界,http://111.56.121.176:80/050000001888/5000000188800000103/index.m3u8
-至臻视界,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686
-至臻视界,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1&
-至臻视界,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&
+咪咕世界,http://111.56.121.176:80/050000001888/5000000188800000103/index.m3u8
+咪咕体育,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686
+咪咕体育,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1&
+咪咕体育,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&
 睛彩竞技,http://111.56.121.176/050000001888/5000000188800000106/1.m3u8?fmt=ts2hls
 睛彩竞技,http://111.56.121.176:80/050000001888/5000000188800000106/index.m3u8
 睛彩篮球,http://111.56.121.176/050000001888/5000000188800000107/1.m3u8?fmt=ts2hls
@@ -245,13 +243,11 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 电视指南,http://111.56.121.176/050000001888/5000000188800000164/1.m3u8?fmt=ts2hls
 电视指南,http://111.56.121.176:80/050000001888/5000000188800000164/index.m3u8
 金色学堂,http://111.56.121.176/000000001000/5000000010000026105/1.m3u8?fmt=ts2hls
-乐游频道,http://111.56.121.176/000000001000/5000000011000031112/1.m3u8?fmt=ts2hls
-生活时尚,http://111.56.121.176/000000001000/5000000002000019634/1.m3u8?fmt=ts2hls
 老故事,http://111.56.121.176/050000001888/5000000188800000166/1.m3u8?fmt=ts2hls
 老故事,http://111.56.120.93/050000001888/5000000188800000166/1.m3u8?fmt=ts2hls
 中学生,http://111.56.121.176/050000001888/5000000188800000167/1.m3u8?fmt=ts2hls
 中学生,http://111.56.120.93/050000001888/5000000188800000167/1.m3u8?fmt=ts2hls
-亲子趣学4k,http://wan1.tangwudi.cc:47859/udp/239.94.1.156:5140
+
 
 
 📡卫视,#genre#
