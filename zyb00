@@ -1051,6 +1051,7 @@ Now新闻,https://cdn.163189.xyz/163189/now
 华视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20310
 华视新闻,http://rihou.cc:555/tv/[mn]华视新闻
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
+TVBS,http://119.82.250.115:5000/nl.m3u8?id=1099
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20188
 TVBS综艺,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500947
@@ -1064,8 +1065,6 @@ TVBS新闻,https://stream1.freetv.fun/f634b30feb2314084b09bf4d382e222ad6a4d9dec3
 TVBS新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20168
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
-TVBS精采,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20191
-TVBS精采,http://rihou.cc:555/tv/[Hv]tvbS闽南
 TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20189
 中视,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
 中视,http://119.91.7.169:2026/TW.php?id=中视
@@ -1092,7 +1091,6 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
 中天亚洲,http://ip1.xiaomidadi.cn:8088/live/dhC7oV8LI6lLcZUT/hls.m3u8
 中天亚洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20196
-中旺电视,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20187
 寰宇新闻,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
 寰宇新聞,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20176
 寰宇新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=globalnews
@@ -1101,28 +1099,15 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 寰宇新闻台湾,http://119.91.7.169:2026/TW.php?id=寰宇新闻台湾台
 寰宇新闻台湾,http://play-a.quklive.com/live/4db542115d9ed6b9b21a00f10bbd361b.flv
 寰宇新闻台湾,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20324
-东森新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ebcnewshd
-东森新闻,http://rihou.cc:555/tv/[Us]东森新闻
-东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
-东森综合,http://ip1.xiaomidadi.cn:8088/live/KMn24bon5j3PxYY2/hls.m3u8
 东森综合,http://iptv.4666888.xyz/iptv2A.php?id=58
-东森电影,https://smt.1678520.xyz/163189/a2a1ea789e237e18
-东森戏剧,https://smt.1678520.xyz/163189/2824421ea53c4891
-东森洋片,https://smt.1678520.xyz/163189/c0e7a31a1ec220fd
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-东森超视34.5,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20208
-东森美洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20210
-东森美洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20175
-东森亚洲卫视,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20539
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 民视,http://211.72.174.95:8115/0.ts
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,http://74.91.26.218:82/live/ftv.m3u8
 民视,http://rihou.cc:555/tv/[mn]民视闽南
 民视,https://iptv.xmtv.cc.cd/?id=55
-民视新闻,http://rihou.cc:555/tv/[mn]民视新闻
-民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
-民视新闻,http://rihou.cc:555/tv/[Uk]民视新闻
+民视新闻,http://211.72.174.95:8117/0.ts
 民视台湾,http://ip1.xiaomidadi.cn:8088/live/JLXbovrAXvVvGxtw/hls.m3u8
 民视台湾,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20216
 民视台湾,http://74.91.26.218:82/live/ftvtw.m3u8
@@ -1148,11 +1133,7 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
 台视财经,http://rihou.cc:555/tv/[mn]台视财经
-公视,http://ip1.xiaomidadi.cn:8088/live/NiyUTyfIW1axBJp2/hls.m3u8
-公视,http://74.91.26.218:82/live/pts.m3u8
 公视,http://211.72.174.95:8116/0.ts
-公视,http://rihou.cc:555/tv/[mn]公视闽南
-公视,http://74.91.26.218:82/live/pts.m3u8
 公视2,http://74.91.26.218:82/live/ptsty.m3u8
 公视2,http://rihou.cc:555/tv/[mn]公视闽语
 公视2,http://74.91.26.218:82/live/ptsty.m3u8
@@ -1229,7 +1210,11 @@ CH8,https://cdn6.163189.xyz/163189/ch8
 8TV,http://rihou.cc:555/tv/[Pd]八度空间
 8TV,https://cdn6.101.qzz.io/163189/8tv
 8TV,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20306
-
+KTV,http://119.82.250.115:5000/nl.m3u8?id=1064
+NHK,http://119.82.250.115:5000/nl.m3u8?id=1063
+GEM,http://119.82.250.115:5000/nl.m3u8?id=1068
+Hiltoa,http://211.72.174.95:8131/0.ts
+Hilton,http://211.72.174.95:8152/0.ts
 🎬NewTV,#genre#
 NewTV精品萌宠,http://gxyd.484947.xyz/PLTV/77777777/224/3221225979/index.m3u8?servicetype=3&IASHttpSessionId=OTT 
 NewTV黑莓电影,http://124.236.93.22:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.170/PLTV/3/224/3221227520/index.m3u8
@@ -1448,6 +1433,7 @@ iHOT爱院线,http://wan1.tangwudi.cc:47859/udp/239.94.1.132:5140
 周润发电影,http://107.150.60.122/live/lbzrf.m3u8
 周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
 林正英影院,http://107.150.60.122/live/lblzy.m3u8
+电影频道,http://211.72.174.95:8136/0.ts
 AMC,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20255
 HBO,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20327
 HBO FAMILY,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20251
