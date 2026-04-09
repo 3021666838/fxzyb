@@ -1006,7 +1006,7 @@ RTHK31,http://rihou.cc:555/tv/[Mt]RTHK-31
 RTHK31,http://rihou.cc:555/tv/[PL]RTHK-31
 RTHK31,http://rihou.cc:555/tv/[SX]RTHK-31
 RTHK32,http://115.44.143.127:18180/TV00000000000000000017@HHZT
-RTHK32,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk32hd
+RTHK32,https://cdn.163189.xyz/163189/rthk32
 RTHK32,http://rihou.cc:555/tv/[SX]RTHK-32
 RTHK32,http://cdn.163189.xyz/163189/rthk32
 RTHK32,http://rihou.cc:555/tv/[Cx]RTHK-32
@@ -1046,12 +1046,11 @@ Now新闻,https://cdn.163189.xyz/163189/now
 华视,http://74.91.26.218:82/live/cts.m3u8
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,http://rihou.cc:555/tv/[mn]华视闽南
+华视新闻,http://119.91.7.169:2026/TW.php?id=华视新闻
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
 华视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20310
 华视新闻,http://rihou.cc:555/tv/[mn]华视新闻
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
-华视教育,http://74.91.26.218:82/live/ctsjy.m3u8
-华视教育,http://rihou.cc:555/tv/[mn]华视教育
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20188
 TVBS综艺,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500947
