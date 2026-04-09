@@ -1068,13 +1068,10 @@ TVBS精采,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 TVBS精采,http://rihou.cc:555/tv/[Hv]tvbS闽南
 TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20189
 中视,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
-中视,http://ip1.xiaomidadi.cn:8088/live/7Ik9YzD3kqxocgfU/hls.m3u8
 中视,http://119.91.7.169:2026/TW.php?id=中视
 中视,http://211.72.174.95:8113/0.ts
 中视,rtmp://f13h.mine.nu/sat/tv091
-中视,http://rihou.cc:555/tv/[mn]中视闽南
-中视,http://74.91.26.218:82/live/ctv.m3u8
-中視,rtmp://f13h.mine.nu:1935/sat/tv091
+中视,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3op4Y=
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视经典,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20221
 中视经典,http://rihou.cc:555/tv/[mn]中视经典
@@ -1084,8 +1081,10 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 中视新闻,http://119.91.7.169:2026/TW.php?id=中视新闻
 中视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20183#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20171
 中视新闻,http://rihou.cc:555/tv/[mn]中视新闻
+中视新闻,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3op4bmlrDpl7s=
 中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
-中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20173
+中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
+中天新闻,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3lpKnmlrDpl7vlj7A=
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,https://stream1.freetv.fun/ae5d52a5c49891c28f1a39ea6b9fc0d67e3e7f02e100b9bf1ff1dc7cc5fa4662.m3u8
@@ -1196,6 +1195,10 @@ MOMO親子,https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb
 好消息2,https://stream1.freetv.fun/90a32c9a78fc2e20774ece8485711988aec55e5f5af1969cae6effb290d3608a.m3u8
 好消息2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 纬来电影,https://smt.1678520.xyz/163189/145487bee05856fc
 纬来电影,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20227
 纬来戏剧,https://smt.1678520.xyz/163189/3586bd154f561caa
