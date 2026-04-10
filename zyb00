@@ -1097,9 +1097,7 @@ RTHK35,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk35hd
 
 🌊台湾,#genre#
 今日新闻,http://220.135.64.124:5050/nnews-zh/index.m3u8
-大新闻大爆卦,http://165.154.226.214:50007/ofiii201/index.m3u8?proxy=true
 少康战情室,http://165.154.226.214:50007/ofiii207/index.m3u8?proxy=true
-国际大小事,http://165.154.226.214:50007/ofiii55/index.m3u8?proxy=true
 非凡大探索,http://165.154.226.214:50007/ofiii234/index.m3u8?proxy=true
 Now新闻,https://cdn.163189.xyz/163189/now
 鏡电视新闻,http://80tv.eu.org:8711/live.m3u8?c=24
@@ -1174,8 +1172,10 @@ TVBSNEWS,http://80tv.eu.org:8711/live.m3u8?c=3
 中天新闻,https://stream1.freetv.fun/ae5d52a5c49891c28f1a39ea6b9fc0d67e3e7f02e100b9bf1ff1dc7cc5fa4662.m3u8
 中天新闻,https://stream1.freetv.fun/966a882718752fcf477567b8ecca5a53feb6bbf6b7e60a8d1030f9be6892c25d.m3u8
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
+中天亚洲,http://165.154.226.214:50007/ofiii201/index.m3u8?proxy=true
 中天亚洲,http://ip1.xiaomidadi.cn:8088/live/dhC7oV8LI6lLcZUT/hls.m3u8
 中天亚洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20196
+寰宇新聞,http://165.154.226.214:50007/ofiii55/index.m3u8?proxy=true
 寰宇新聞,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
 寰宇新聞,http://80tv.eu.org:8711/live.m3u8?c=8
 寰宇新聞,http://165.154.226.214:50007/of-litv-longturn14/index.m3u8
