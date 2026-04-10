@@ -1096,7 +1096,13 @@ RTHK35,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk35hd
 
 
 🌊台湾,#genre#
+今日新闻,http://220.135.64.124:5050/nnews-zh/index.m3u8
+大新闻大爆卦,http://165.154.226.214:50007/ofiii201/index.m3u8?proxy=true
+少康战情室,http://165.154.226.214:50007/ofiii207/index.m3u8?proxy=true
+国际大小事,http://165.154.226.214:50007/ofiii55/index.m3u8?proxy=true
+非凡大探索,http://165.154.226.214:50007/ofiii234/index.m3u8?proxy=true
 Now新闻,https://cdn.163189.xyz/163189/now
+鏡电视新闻,http://80tv.eu.org:8711/live.m3u8?c=24
 鏡电视新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 鏡电视新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
 鏡电视新闻,https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8
@@ -1104,6 +1110,7 @@ Now新闻,https://cdn.163189.xyz/163189/now
 非凡新闻,http://rihou.cc:555/tv/[Hk]非凡新闻
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,https://iptv.xmtv.cc.cd/?id=44
+公视新闻,http://80tv.eu.org:8711/live.m3u8?c=23
 华视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WC4PV84FqPDdX5aGM2Uh2jv-FMZaOh-fvBiGeHcVSKvxKgnMAi_TSEdkq0GlDYvX0YOdT20uyonxrctqHD39OFdSxYFPV2CjSgX96JI0rcx2D9VifDNgJK5yzYJhsqhdEY2Jhj9BGCrG1njMeRY7BBQtGKuN6F7M7tBZ3fJKeod86PqkIEbu8h1232KWo-ZXaQ.m3u8?u=1756878715
 华视,http://119.91.7.169:2026/TW.php?id=华视
 华视,http://211.72.174.95:8114/0.ts
@@ -1111,11 +1118,16 @@ Now新闻,https://cdn.163189.xyz/163189/now
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,http://rihou.cc:555/tv/[mn]华视闽南
 华视新闻,http://119.91.7.169:2026/TW.php?id=华视新闻
+华视新闻,http://80tv.eu.org:8711/live.m3u8?c=22
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
+华视新闻,http://165.154.226.214:50007/of-4gtv-4gtv052/index.m3u8
+华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8
 华视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20310
 华视新闻,http://rihou.cc:555/tv/[mn]华视新闻
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
 TVBS,http://119.82.250.115:5000/nl.m3u8?id=1099
+TVBS,http://80tv.eu.org:8711/live.m3u8?c=2
+TVBS,https://smt.giptv.indevs.in/tvbs/playlist.m3u8
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20188
 TVBS综艺,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500947
@@ -1124,6 +1136,7 @@ TVBS综艺,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 TVBS综艺,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500947
 TVBS综艺,http://dragon1977.com:80/047306b75f/b5a06cc482d6/500956
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+TVBS新闻,http://80tv.eu.org:8711/live.m3u8?c=4
 TVBS新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbsnewshd
 TVBS新闻,https://stream1.freetv.fun/f634b30feb2314084b09bf4d382e222ad6a4d9dec34f48b1bd291d201a23d565.m3u8
 TVBS新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20168
@@ -1131,6 +1144,7 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 TVBS欢乐,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyj9WnUXorByJnTJc-i4mhyFvTu1PnYj_mlPrdTK-IhXnJEWUhl7A-O6Yibl-9DI7LmoFvsy175Em0tTJL1QbF0G45ntypZWENIJFBNVRMWUdhTjTPFc02qdguAFwJMO04UndsXDXK_eCUi5Ft_68OWmsN6kuWq8igNtDIYNbLnv0RkVd-N7ekvxRYZ2-_PpyYw.m3u8?u=1756878715
 TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20189
+TVBSNEWS,http://80tv.eu.org:8711/live.m3u8?c=3
 中视,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
 中视,http://119.91.7.169:2026/TW.php?id=中视
 中视,http://211.72.174.95:8113/0.ts
@@ -1143,10 +1157,16 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 中视菁采,http://rihou.cc:555/tv/[mn]中视菁采
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视新闻,http://119.91.7.169:2026/TW.php?id=中视新闻
+中视新闻,http://80tv.eu.org:8711/live.m3u8?c=12
 中视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20183#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20171
 中视新闻,http://rihou.cc:555/tv/[mn]中视新闻
 中视新闻,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3op4bmlrDpl7s=
 中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
+中天新闻,http://80tv.eu.org:8711/live.m3u8?c=5
+中天新闻,http://80tv.eu.org:8711/live.m3u8?c=6
+中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+中天新闻,http://165.154.226.214:50007/of-4gtv-4gtv009/index.m3u8
+中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3lpKnmlrDpl7vlj7A=
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
@@ -1156,7 +1176,10 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
 中天亚洲,http://ip1.xiaomidadi.cn:8088/live/dhC7oV8LI6lLcZUT/hls.m3u8
 中天亚洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20196
-寰宇新闻,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
+寰宇新聞,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
+寰宇新聞,http://80tv.eu.org:8711/live.m3u8?c=8
+寰宇新聞,http://165.154.226.214:50007/of-litv-longturn14/index.m3u8
+寰宇新聞,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8
 寰宇新聞,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20176
 寰宇新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=globalnews
 寰宇新聞,http://nmk.ioapk.com:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
@@ -1166,8 +1189,18 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 寰宇新闻台湾,http://119.91.7.169:2026/TW.php?id=寰宇新闻台湾台
 寰宇新闻台湾,http://play-a.quklive.com/live/4db542115d9ed6b9b21a00f10bbd361b.flv
 寰宇新闻台湾,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20324
+寰宇台湾,http://165.154.226.214:50007/of-4gtv-4gtv156/index.m3u8
+寰宇台湾,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8
+寰宇台湾,http://80tv.eu.org:8711/live.m3u8?c=10
+寰宇LIVE,http://80tv.eu.org:8711/live.m3u8?c=9
+寰宇全视界,http://165.154.226.214:50007/ofiii204/index.m3u8?proxy=true
+东森新闻,http://80tv.eu.org:8711/live.m3u8?c=14
+东森新闻,http://80tv.eu.org:8711/live.m3u8?c=16
+东森新闻,http://80tv.eu.org:8711/live.m3u8?c=15
 东森综合,http://iptv.4666888.xyz/iptv2A.php?id=58
 东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森财经,http://80tv.eu.org:8711/live.m3u8?c=17
+东森财经,http://80tv.eu.org:8711/live.m3u8?c=18
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 民视,http://211.72.174.95:8115/0.ts
 民视,rtmp://f13h.mine.nu/sat/tv051
@@ -1175,6 +1208,7 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 民视,http://rihou.cc:555/tv/[mn]民视闽南
 民视,https://iptv.xmtv.cc.cd/?id=55
 民视新闻,http://211.72.174.95:8117/0.ts
+民视新闻,http://80tv.eu.org:8711/live.m3u8?c=19
 民视台湾,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3atxjlCPJKDYabw9dmEjHtnk0aJknzOqmYx2AbmaB0G-VmoDb4F7iTQUvMtaOzKMZVT09R74AS5INEi2-DGK1OGkkELsSQQaGqnREXpesS3HI9YwOK1OGCw9Z4HZH5ny6GKy7YYSBUyDBpBb7RzqGMjxFdBWsL6ysYTyS1GvmE4VGGqa3Yk74ZguEVvFGzsU-Fiw.m3u8?u=1756878715
 民视台湾,http://ip1.xiaomidadi.cn:8088/live/JLXbovrAXvVvGxtw/hls.m3u8
 民视台湾,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20216
@@ -1192,6 +1226,7 @@ TVBS欢乐,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 台视,rtmp://f13h.mine.nu/sat/tv071
 台视,http://74.91.26.218:82/live/ttv.m3u8
 台视,http://rihou.cc:555/tv/[mn]台视闽南
+台视新闻,http://80tv.eu.org:8711/live.m3u8?c=13
 台视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20172
 台视新闻,http://rihou.cc:555/tv/[Hk]民视新聞
 台视新闻,http://rihou.cc:555/tv/[mn]台视新闻
@@ -1228,6 +1263,8 @@ MOMO親子,https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb
 好消息2,https://stream1.freetv.fun/d13c90f2ead30623f0bc7b17562018f57fc29c7e171a85c546e9ac0e6325cf1b.m3u8
 好消息2,https://stream1.freetv.fun/90a32c9a78fc2e20774ece8485711988aec55e5f5af1969cae6effb290d3608a.m3u8
 好消息2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+LIVE三立,http://80tv.eu.org:8711/live.m3u8?c=20
+LIVE三立,http://80tv.eu.org:8711/live.m3u8?c=21
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来戏剧,https://smt.1678520.xyz/163189/3586bd154f561caa
@@ -1241,6 +1278,11 @@ Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 华艺中文台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20223
 华艺中文台,https://live.catvod.com/live.php?id=weishichinese_twn
 麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+新唐人,http://80tv.eu.org:8711/live.m3u8?c=25
+国会頻道1,http://80tv.eu.org:8711/live.m3u8?c=27
+国会頻道2,http://80tv.eu.org:8711/live.m3u8?c=28
+
+
 
 
 🌊中文,#genre#
