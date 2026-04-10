@@ -1033,8 +1033,8 @@ myTV SUPER,http://pull-vivek.speedws.com/live/aaahyjt.flv
 myTV SUPER,http://tl.061833.xyz/tl/null-4
 myTV SUPER,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU4BMzxHRNUyQPNES-VxRbAi8Mxl-jPVl7FIWFVYl4YqRaRI01gYY24QQauu6KO1pG388Dp2P_0kqo6p5GWoNIC3s7K9ggIPcDP1CqCxvj7pt-amwcU8KuLwhUPhAPpPjmqW6iqOnd9pR0lQu5VFBJ2pxvrlkLb0IeGNT3sQpqG0K92N6JtJHMFZzXVGV5xEJ2x4y4Q9DpZguXR0ObYTDZYTGiTIaLjBlBICBqjjdtdS4.m3u8?u=1756878715
 myTV SUPErfootball3,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHkx3P0nd7oLlaOTb26Owcb9JwFsteymxnl5kxNTLmALqKGSGzQpl3rIvjZ40qu_Iq3obYStJnslU-A6S0vyy2WUXmv_BOrddUzsh0Ar0KYZip5OiNvh9vztOmGGDPfOjKp1BsKyix2XaF3N-gfmmu_hIb3X7-efPoYCRlx6j2MkMPf-bIJRo33k028Xa-kLVQvJEfj-9m5QihYOD5hGWXUxXv61rF3WBURfr4AvOCh0.m3u8?u=1756878715
-myTV SUPErfootball3,http://67.220.67.246:2347/livehttpplay?channel_id=13023
 myTV SUPErfootball4,http://iptv.4666888.xyz/iptv2A.php?id=32
+myTV SUPErfootball5,http://67.220.67.246:2347/livehttpplay?channel_id=13023
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 HOY77,http://115.44.143.127:18180/TV00000000000000000036@HHZT
 HOY77,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20078
@@ -1066,6 +1066,9 @@ RTHK31,http://rihou.cc:555/tv/[Mt]RTHK-31
 RTHK31,http://rihou.cc:555/tv/[PL]RTHK-31
 RTHK31,http://rihou.cc:555/tv/[SX]RTHK-31
 RTHK32,http://115.44.143.127:18180/TV00000000000000000017@HHZT
+RTHK32,http://67.220.71.199:2347/livehttpplay?channel_id=20203
+RTHK32,http://67.220.71.199:2347/livehttpplay?channel_id=30028
+RTHK32,http://67.220.71.199:2347/livehttpplay?channel_id=30067
 RTHK32,https://cdn.163189.xyz/163189/rthk32
 RTHK32,http://rihou.cc:555/tv/[SX]RTHK-32
 RTHK32,http://cdn.163189.xyz/163189/rthk32
@@ -1318,9 +1321,7 @@ BesTV4K电影,http://223.167.125.208:4022/rtp/233.18.204.169:5140
 4K修复,http://124.236.93.22:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.224/PLTV/4/224/3221228141/index.m3u8
 爱上4K,http://lihetl.com:9527/rtp/232.0.0.104:8632
 爱上4K,http://101.wifi98.com:9001/udp/232.0.0.187:1234
-峨眉电影4K,http://122.5.53.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
-峨眉电影4K,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
-峨眉电影4K,https://itv.tvbj.dpdns.org/proxy.php/live/emdy4k_8000.m3u8
+峨眉电影4K,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 绚影4K,http://wan1.tangwudi.cc:47859/udp/239.94.1.150:5140
 CHC影迷电影,http://wan1.tangwudi.cc:47859/udp/239.94.1.174:5140
 CHC影迷电影,http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1449,7 +1450,7 @@ Amc,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUI
 华数城市剧场,http://115.171.80.124:1688/rtp/225.1.8.227:4120$北京电信11
 华数少儿动画,http://171.38.107.34:8282/tsfile/live/1089_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
-重温经典,http://122.5.53.42:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
+重温经典,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
 天映,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20116#http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20117
 天映,http://pull-vivek.speedws.com/live/aaatypd.flv
 天映,https://o11.163189.xyz/stream/live/typd/
