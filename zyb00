@@ -1116,9 +1116,10 @@ Now新闻,https://cdn.163189.xyz/163189/now
 鏡电视新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 鏡电视新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
 鏡电视新闻,https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8
+公视,http://211.72.174.95:8116/0.ts
 公视新闻,http://80tv.eu.org:8711/live.m3u8?c=23
-华视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WC4PV84FqPDdX5aGM2Uh2jv-FMZaOh-fvBiGeHcVSKvxKgnMAi_TSEdkq0GlDYvX0YOdT20uyonxrctqHD39OFdSxYFPV2CjSgX96JI0rcx2D9VifDNgJK5yzYJhsqhdEY2Jhj9BGCrG1njMeRY7BBQtGKuN6F7M7tBZ3fJKeod86PqkIEbu8h1232KWo-ZXaQ.m3u8?u=1756878715
 华视,http://211.72.174.95:8114/0.ts
+华视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WC4PV84FqPDdX5aGM2Uh2jv-FMZaOh-fvBiGeHcVSKvxKgnMAi_TSEdkq0GlDYvX0YOdT20uyonxrctqHD39OFdSxYFPV2CjSgX96JI0rcx2D9VifDNgJK5yzYJhsqhdEY2Jhj9BGCrG1njMeRY7BBQtGKuN6F7M7tBZ3fJKeod86PqkIEbu8h1232KWo-ZXaQ.m3u8?u=1756878715
 华视,http://74.91.26.218:82/live/cts.m3u8
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,http://rihou.cc:555/tv/[mn]华视闽南
@@ -1213,12 +1214,13 @@ TVBSNEWS,http://80tv.eu.org:8711/live.m3u8?c=3
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森财经,http://80tv.eu.org:8711/live.m3u8?c=17
 东森财经,http://80tv.eu.org:8711/live.m3u8?c=18
-民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 民视,http://211.72.174.95:8115/0.ts
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,http://74.91.26.218:82/live/ftv.m3u8
 民视,http://rihou.cc:555/tv/[mn]民视闽南
 民视,https://iptv.xmtv.cc.cd/?id=55
+民视新闻,http://211.72.174.95:8117/0.ts
 民视新闻,http://80tv.eu.org:8711/live.m3u8?c=19
 民视台湾,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3atxjlCPJKDYabw9dmEjHtnk0aJknzOqmYx2AbmaB0G-VmoDb4F7iTQUvMtaOzKMZVT09R74AS5INEi2-DGK1OGkkELsSQQaGqnREXpesS3HI9YwOK1OGCw9Z4HZH5ny6GKy7YYSBUyDBpBb7RzqGMjxFdBWsL6ysYTyS1GvmE4VGGqa3Yk74ZguEVvFGzsU-Fiw.m3u8?u=1756878715
 民视台湾,http://ip1.xiaomidadi.cn:8088/live/JLXbovrAXvVvGxtw/hls.m3u8
@@ -1291,8 +1293,6 @@ MOMO親子,https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb
 
 
 🌊中文,#genre#
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-CNN,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/0.m3u8
 CHU,http://cdn6.163189.xyz/163189/chu
 CHU,https://cdn6.163189.xyz/163189/chu
 CH5,http://cdn6.163189.xyz/163189/ch5
