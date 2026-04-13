@@ -7,7 +7,6 @@
 乐游,http://111.56.121.176/000000001000/5000000011000031112/1.m3u8?fmt=ts2hls
 亲子趣学,http://wan1.tangwudi.cc:47859/udp/239.94.1.156:5140
 生活时尚,http://111.56.121.176/000000001000/5000000002000019634/1.m3u8?fmt=ts2hls
-凯撒饭店连锁,http://211.72.174.95:8118/0.ts
 环球直播,https://live.iill.top/douyu/9036111
 熊猫直播-1,http://wan1.tangwudi.cc:47859/udp/239.94.1.14:5140
 熊猫直播-2,http://wan1.tangwudi.cc:47859/udp/239.94.1.15:5140
@@ -518,22 +517,27 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 都市剧场,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.48:5140
 
 -----------------------------------------------------------------------------------
+cdtv1,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-1_4000.m3u8
 cdtv1,http://wan1.tangwudi.cc:47859/udp/239.94.0.154:5140
 cdtv1,http://nas.201606.xyz:4022/rtp/239.10.0.11:5140
 cdtv1,http://183.220.107.138:4022/rtp/239.10.0.11:5140
 cdtv1,http://183.220.20.17:4321/rtp/239.10.0.11:5140
+cdtv2,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-2_4000.m3u8
 cdtv2,http://wan1.tangwudi.cc:47859/udp/239.94.0.155:5140
 cdtv2,http://nas.201606.xyz:4022/rtp/239.10.0.12:5140
 cdtv2,http://183.220.107.138:4022/rtp/239.10.0.12:5140
 cdtv2,http://183.220.20.17:4321/rtp/239.10.0.12:5140
+cdtv3,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-3_4000.m3u8
 cdtv3,http://wan1.tangwudi.cc:47859/udp/239.94.0.156:5140
 cdtv3,http://nas.201606.xyz:4022/rtp/239.10.0.13:5140
 cdtv3,http://183.220.107.138:4022/rtp/239.10.0.13:5140
 cdtv3,http://183.220.20.17:4321/rtp/239.10.0.13:5140
-cdtv4://wan1.tangwudi.cc:47859/udp/239.94.0.157:5140
+cdtv4,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-4_4000.m3u8
+cdtv4,http:wan1.tangwudi.cc:47859/udp/239.94.0.157:5140
 cdtv4,http://nas.201606.xyz:4022/rtp/239.10.0.14:5140
 cdtv4,http://183.220.107.138:4022/rtp/239.10.0.14:5140
 cdtv4,http://183.220.20.17:4321/rtp/239.10.0.14:5140
+cdtv5,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-5_4000.m3u8
 cdtv5,http://wan1.tangwudi.cc:47859/udp/239.94.0.158:5140
 cdtv5,http://nas.201606.xyz:4022/rtp/239.10.0.15:5140
 cdtv5,http://183.220.107.138:4022/rtp/239.10.0.15:5140
@@ -542,6 +546,8 @@ cdtv6,http://wan1.tangwudi.cc:47859/udp/239.94.0.159:5140
 cdtv6,http://nas.201606.xyz:4022/rtp/239.10.0.16:5140
 cdtv6,http://183.220.107.138:4022/rtp/239.10.0.16:5140
 cdtv6,http://183.220.20.17:4321/rtp/239.10.0.16:5140
+CDTV8,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/mrgw_4000.m3u8
+成都蓉城先锋,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/cdgxdstgq_2000.m3u8
 成都蓉城先锋,http://wan1.tangwudi.cc:47859/udp/239.94.1.57:5140
 
 
@@ -1270,8 +1276,6 @@ MOMO親子,https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb
 好消息2,https://stream1.freetv.fun/d13c90f2ead30623f0bc7b17562018f57fc29c7e171a85c546e9ac0e6325cf1b.m3u8
 好消息2,https://stream1.freetv.fun/90a32c9a78fc2e20774ece8485711988aec55e5f5af1969cae6effb290d3608a.m3u8
 好消息2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-LIVE三立,http://80tv.eu.org:8711/live.m3u8?c=20
-LIVE三立,http://80tv.eu.org:8711/live.m3u8?c=21
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来戏剧,https://smt.1678520.xyz/163189/3586bd154f561caa
@@ -1283,9 +1287,6 @@ LIVE三立,http://80tv.eu.org:8711/live.m3u8?c=21
 华艺中文台,https://live.catvod.com/live.php?id=weishichinese_twn
 麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 新唐人,http://80tv.eu.org:8711/live.m3u8?c=25
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-TV1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-TV3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 
 
 
